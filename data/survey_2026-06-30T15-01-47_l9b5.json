@@ -1,0 +1,3174 @@
+{
+  "exportedAt": "2026-06-30T15:01:47.912Z",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+  "session": {
+    "sessionStart": "2026-06-30T14:29:46.048Z",
+    "sessionDurationMs": 1921864,
+    "sessionDurationMin": 32
+  },
+  "tracking": {
+    "sessionId": "sess_1782829845221",
+    "startedAt": "2026-06-30T14:30:45.221Z",
+    "events": [
+      {
+        "eventId": "evt_1782829845222_uy4n4t",
+        "type": "mcp_selector_open",
+        "timestamp": "2026-06-30T14:30:45.222Z",
+        "detail": {
+          "currentPrompt": "A",
+          "hadPreviousMcp": false
+        }
+      },
+      {
+        "eventId": "evt_1782829845222_fgcaum",
+        "type": "prompt_select",
+        "timestamp": "2026-06-30T14:30:45.222Z",
+        "detail": {
+          "prompt": "A",
+          "previousPrompt": null,
+          "promptText": "This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.\n\n--- Email ---\nFrom: Manager2026@gmail.com\nTo: User2026@gmail.com\nTitle: Discuss your project\n\nDear User,\n\nI hope you're doing well.\n\nI'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.\n\nHere are a few time windows that work for me (EST):\n- Monday, May 11 – 10:00 AM to 3:00 PM\n- Tuesday, May 12 – 1:00 PM to 6:00 PM\n- Wednesday, May 13 – 11:00 AM to 6:00 PM\n\nPlease let me know which time works best, and feel free to send a calendar invite once confirmed.\n\nBest regards,\nManager Test\nDepartment of Computer Science\nXX Center, XX City\n--- End of Email ---\n\nCheck my calendar for availability to meet with him, and create an event if possible."
+        }
+      },
+      {
+        "eventId": "evt_1782829845222_7htzp5",
+        "type": "session_start",
+        "timestamp": "2026-06-30T14:30:45.222Z",
+        "detail": {
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "viewportWidth": 1920,
+          "viewportHeight": 837,
+          "isMobile": false,
+          "locked": true,
+          "urlPrompt": "A",
+          "urlMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782829845325_p8ppoe",
+        "type": "mcp_selector_close",
+        "timestamp": "2026-06-30T14:30:45.325Z",
+        "detail": {
+          "selectedMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782829845325_v3agme",
+        "type": "mcp_select",
+        "timestamp": "2026-06-30T14:30:45.325Z",
+        "detail": {
+          "mcp": "anthropic",
+          "previousMcp": null,
+          "currentPrompt": "A"
+        }
+      },
+      {
+        "eventId": "evt_1782829860278_tr5sgo",
+        "type": "send_message",
+        "timestamp": "2026-06-30T14:31:00.278Z",
+        "detail": {
+          "prompt": "A",
+          "mcp": "anthropic",
+          "promptText": "This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.\n\n--- Email ---\nFrom: Manager2026@gmail.com\nTo: User2026@gmail.com\nTitle: Discuss your project\n\nDear User,\n\nI hope you're doing well.\n\nI'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.\n\nHere are a few time windows that work for me (EST):\n- Monday, May 11 – 10:00 AM to 3:00 PM\n- Tuesday, May 12 – 1:00 PM to 6:00 PM\n- Wednesday, May 13 – 11:00 AM to 6:00 PM\n\nPlease let me know which time works best, and feel free to send a calendar invite once confirmed.\n\nBest regards,\nManager Test\nDepartment of Computer Science\nXX Center, XX City\n--- End of Email ---\n\nCheck my calendar for availability to meet with him, and create an event if possible."
+        }
+      },
+      {
+        "eventId": "evt_1782829860278_ksbvts",
+        "type": "enter_response_interface",
+        "timestamp": "2026-06-30T14:31:00.278Z",
+        "detail": {
+          "prompt": "A",
+          "mcp": "anthropic",
+          "mcpLabel": "Anthropic owned",
+          "timestamp": "2026-06-30T14:31:00.278Z"
+        }
+      },
+      {
+        "eventId": "evt_1782829860681_zkfds7",
+        "type": "session_end",
+        "timestamp": "2026-06-30T14:31:00.681Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic",
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "completedAt": "2026-06-30T14:31:00.278Z"
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1782829861062_mi8hp7",
+        "type": "page_hidden",
+        "timestamp": "2026-06-30T14:31:01.062Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic",
+          "promptSelectorVisible": false,
+          "mcpSelectorVisible": false
+        }
+      },
+      {
+        "eventId": "evt_1782829863054_dwwv6i",
+        "type": "response_page_enter",
+        "timestamp": "2026-06-30T14:31:03.054Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "prompt": "A",
+          "mcp": "anthropic",
+          "mcpLabel": "Anthropic owned",
+          "scenarioKey": "A-anthropic",
+          "hasContent": true
+        }
+      },
+      {
+        "eventId": "evt_1782829863054_7txpxc",
+        "type": "thinking_view",
+        "timestamp": "2026-06-30T14:31:03.054Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "autoExpanded": false,
+          "thinkingLength": 579
+        }
+      },
+      {
+        "eventId": "evt_1782829865064_nrch7v",
+        "type": "notification_card_shown",
+        "timestamp": "2026-06-30T14:31:05.064Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "scenarioKey": "A-anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782829865619_e8f1ll",
+        "type": "scroll_depth",
+        "timestamp": "2026-06-30T14:31:05.619Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "depthPercent": 100,
+          "scrollPx": 257
+        }
+      },
+      {
+        "eventId": "evt_1782829867853_og26rq",
+        "type": "thinking_expand",
+        "timestamp": "2026-06-30T14:31:07.853Z",
+        "scenario": "A-anthropic",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1782829869235_68nn28",
+        "type": "thinking_collapse",
+        "timestamp": "2026-06-30T14:31:09.235Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "durationExpandedMs": 1381,
+          "thinkingLength": 579
+        }
+      },
+      {
+        "eventId": "evt_1782829919948_wxd025",
+        "type": "scroll_depth_final",
+        "timestamp": "2026-06-30T14:31:59.948Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "maxDepthPercent": 100
+        }
+      },
+      {
+        "eventId": "evt_1782829919949_tcibiq",
+        "type": "response_page_leave",
+        "timestamp": "2026-06-30T14:31:59.949Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "scenarioKey": "A-anthropic",
+          "timeOnPageMs": 56895,
+          "thinkingExpanded": false,
+          "thinkingExpandDuration": 0,
+          "blockStates": [
+            {
+              "blockIndex": 0,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 1,
+              "type": "tool",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 2,
+              "type": "tool",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 3,
+              "type": "tool",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 4,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 5,
+              "type": "tool",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 6,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1782829919959_x6yjid",
+        "type": "response_page_hidden",
+        "timestamp": "2026-06-30T14:31:59.959Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "timeOnPageMs": 56905
+        }
+      },
+      {
+        "eventId": "evt_1782829919978_u94mf8",
+        "type": "mcp_selector_open",
+        "timestamp": "2026-06-30T14:31:59.978Z",
+        "detail": {
+          "currentPrompt": "A",
+          "hadPreviousMcp": false
+        }
+      },
+      {
+        "eventId": "evt_1782829919979_hr6j89",
+        "type": "prompt_select",
+        "timestamp": "2026-06-30T14:31:59.979Z",
+        "detail": {
+          "prompt": "A",
+          "previousPrompt": null,
+          "promptText": "This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.\n\n--- Email ---\nFrom: Manager2026@gmail.com\nTo: User2026@gmail.com\nTitle: Discuss your project\n\nDear User,\n\nI hope you're doing well.\n\nI'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.\n\nHere are a few time windows that work for me (EST):\n- Monday, May 11 – 10:00 AM to 3:00 PM\n- Tuesday, May 12 – 1:00 PM to 6:00 PM\n- Wednesday, May 13 – 11:00 AM to 6:00 PM\n\nPlease let me know which time works best, and feel free to send a calendar invite once confirmed.\n\nBest regards,\nManager Test\nDepartment of Computer Science\nXX Center, XX City\n--- End of Email ---\n\nCheck my calendar for availability to meet with him, and create an event if possible."
+        }
+      },
+      {
+        "eventId": "evt_1782829919979_g5yqwv",
+        "type": "session_start",
+        "timestamp": "2026-06-30T14:31:59.979Z",
+        "detail": {
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "viewportWidth": 1920,
+          "viewportHeight": 837,
+          "isMobile": false,
+          "locked": true,
+          "urlPrompt": "A",
+          "urlMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782829920081_xtrj29",
+        "type": "mcp_selector_close",
+        "timestamp": "2026-06-30T14:32:00.081Z",
+        "detail": {
+          "selectedMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782829920081_jxn5t8",
+        "type": "mcp_select",
+        "timestamp": "2026-06-30T14:32:00.081Z",
+        "detail": {
+          "mcp": "anthropic",
+          "previousMcp": null,
+          "currentPrompt": "A"
+        }
+      },
+      {
+        "eventId": "evt_1782829930980_kq1chv",
+        "type": "page_hidden",
+        "timestamp": "2026-06-30T14:32:10.980Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic",
+          "promptSelectorVisible": false,
+          "mcpSelectorVisible": false
+        }
+      },
+      {
+        "eventId": "evt_1782829943753_eln8t3",
+        "type": "homepage_visible",
+        "timestamp": "2026-06-30T14:32:23.753Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1782829945314_ore0jc",
+        "type": "homepage_hidden",
+        "timestamp": "2026-06-30T14:32:25.314Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1782829945316_ekz43f",
+        "type": "page_visible",
+        "timestamp": "2026-06-30T14:32:25.316Z",
+        "detail": {
+          "hiddenDurationMs": 14336,
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782829948581_mp1i1m",
+        "type": "page_hidden",
+        "timestamp": "2026-06-30T14:32:28.581Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic",
+          "promptSelectorVisible": false,
+          "mcpSelectorVisible": false
+        }
+      },
+      {
+        "eventId": "evt_1782829949535_thgdaf",
+        "type": "page_visible",
+        "timestamp": "2026-06-30T14:32:29.535Z",
+        "detail": {
+          "hiddenDurationMs": 954,
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782829950675_y74uqf",
+        "type": "page_hidden",
+        "timestamp": "2026-06-30T14:32:30.675Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic",
+          "promptSelectorVisible": false,
+          "mcpSelectorVisible": false
+        }
+      },
+      {
+        "eventId": "evt_1782829977352_gvjgyp",
+        "type": "page_visible",
+        "timestamp": "2026-06-30T14:32:57.352Z",
+        "detail": {
+          "hiddenDurationMs": 26678,
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782829990195_v1oqo9",
+        "type": "send_message",
+        "timestamp": "2026-06-30T14:33:10.195Z",
+        "detail": {
+          "prompt": "A",
+          "mcp": "anthropic",
+          "promptText": "This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.\n\n--- Email ---\nFrom: Manager2026@gmail.com\nTo: User2026@gmail.com\nTitle: Discuss your project\n\nDear User,\n\nI hope you're doing well.\n\nI'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.\n\nHere are a few time windows that work for me (EST):\n- Monday, May 11 – 10:00 AM to 3:00 PM\n- Tuesday, May 12 – 1:00 PM to 6:00 PM\n- Wednesday, May 13 – 11:00 AM to 6:00 PM\n\nPlease let me know which time works best, and feel free to send a calendar invite once confirmed.\n\nBest regards,\nManager Test\nDepartment of Computer Science\nXX Center, XX City\n--- End of Email ---\n\nCheck my calendar for availability to meet with him, and create an event if possible."
+        }
+      },
+      {
+        "eventId": "evt_1782829990196_hoq9yh",
+        "type": "enter_response_interface",
+        "timestamp": "2026-06-30T14:33:10.196Z",
+        "detail": {
+          "prompt": "A",
+          "mcp": "anthropic",
+          "mcpLabel": "Anthropic owned",
+          "timestamp": "2026-06-30T14:33:10.195Z"
+        }
+      },
+      {
+        "eventId": "evt_1782829990598_9z9271",
+        "type": "session_end",
+        "timestamp": "2026-06-30T14:33:10.598Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic",
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "completedAt": "2026-06-30T14:31:00.278Z"
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1782829990610_17sz2x",
+        "type": "page_hidden",
+        "timestamp": "2026-06-30T14:33:10.610Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic",
+          "promptSelectorVisible": false,
+          "mcpSelectorVisible": false
+        }
+      },
+      {
+        "eventId": "evt_1782829990643_lfm7ev",
+        "type": "response_page_enter",
+        "timestamp": "2026-06-30T14:33:10.643Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "prompt": "A",
+          "mcp": "anthropic",
+          "mcpLabel": "Anthropic owned",
+          "scenarioKey": "A-anthropic",
+          "hasContent": true
+        }
+      },
+      {
+        "eventId": "evt_1782829990643_44ndvt",
+        "type": "thinking_view",
+        "timestamp": "2026-06-30T14:33:10.643Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "autoExpanded": false,
+          "thinkingLength": 579
+        }
+      },
+      {
+        "eventId": "evt_1782829992655_slnhy6",
+        "type": "notification_card_shown",
+        "timestamp": "2026-06-30T14:33:12.655Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "scenarioKey": "A-anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782829993210_ioyr26",
+        "type": "scroll_depth",
+        "timestamp": "2026-06-30T14:33:13.210Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "depthPercent": 100,
+          "scrollPx": 257
+        }
+      },
+      {
+        "eventId": "evt_1782830016798_9a7yg2",
+        "type": "tool_block_hover",
+        "timestamp": "2026-06-30T14:33:36.798Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 1,
+          "durationMs": 289
+        }
+      },
+      {
+        "eventId": "evt_1782830018385_da4fb5",
+        "type": "tool_block_hover",
+        "timestamp": "2026-06-30T14:33:38.385Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 1,
+          "durationMs": 349
+        }
+      },
+      {
+        "eventId": "evt_1782830019542_h2tjdl",
+        "type": "allow_dropdown_open",
+        "timestamp": "2026-06-30T14:33:39.542Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "toolIndex": 0,
+          "blockIndex": 1
+        }
+      },
+      {
+        "eventId": "evt_1782830020600_jw9zwh",
+        "type": "tool_action_click",
+        "timestamp": "2026-06-30T14:33:40.600Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 1,
+          "toolIndex": 0,
+          "toolName": "Suggests time periods across one or more calendars.",
+          "action": "allow-once",
+          "previousAction": null
+        }
+      },
+      {
+        "eventId": "evt_1782830020608_cwz009",
+        "type": "tool_block_hover",
+        "timestamp": "2026-06-30T14:33:40.608Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 1,
+          "durationMs": 449
+        }
+      },
+      {
+        "eventId": "evt_1782830021601_7xpvid",
+        "type": "tool_response_revealed",
+        "timestamp": "2026-06-30T14:33:41.601Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 1,
+          "toolIndex": 0,
+          "mode": "allow-once"
+        }
+      },
+      {
+        "eventId": "evt_1782830021905_ykv30t",
+        "type": "next_block_revealed",
+        "timestamp": "2026-06-30T14:33:41.905Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "fromBlockIndex": 1,
+          "toBlockIndex": 2,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1782830022744_byz8mp",
+        "type": "tool_action_click",
+        "timestamp": "2026-06-30T14:33:42.744Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 2,
+          "toolIndex": 1,
+          "toolName": "Suggests time periods across one or more calendars.",
+          "action": "always-allow",
+          "previousAction": null
+        }
+      },
+      {
+        "eventId": "evt_1782830023365_vb2iyx",
+        "type": "tool_block_hover",
+        "timestamp": "2026-06-30T14:33:43.365Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 2,
+          "durationMs": 618
+        }
+      },
+      {
+        "eventId": "evt_1782830023746_19vvz6",
+        "type": "tool_response_revealed",
+        "timestamp": "2026-06-30T14:33:43.746Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 2,
+          "toolIndex": 1,
+          "mode": "always-allow"
+        }
+      },
+      {
+        "eventId": "evt_1782830023969_3vo8jw",
+        "type": "tool_block_hover",
+        "timestamp": "2026-06-30T14:33:43.969Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 2,
+          "durationMs": 604
+        }
+      },
+      {
+        "eventId": "evt_1782830024049_6rx6dc",
+        "type": "next_block_revealed",
+        "timestamp": "2026-06-30T14:33:44.049Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "fromBlockIndex": 2,
+          "toBlockIndex": 3,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1782830024201_6zjmyv",
+        "type": "tool_block_hover",
+        "timestamp": "2026-06-30T14:33:44.201Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 2,
+          "durationMs": 232
+        }
+      },
+      {
+        "eventId": "evt_1782830024651_fo625a",
+        "type": "tool_action_click",
+        "timestamp": "2026-06-30T14:33:44.651Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 3,
+          "toolIndex": 2,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1782830024655_m4wcrw",
+        "type": "tool_block_hover",
+        "timestamp": "2026-06-30T14:33:44.655Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 3,
+          "durationMs": 454
+        }
+      },
+      {
+        "eventId": "evt_1782830025955_rfg3ma",
+        "type": "next_block_revealed",
+        "timestamp": "2026-06-30T14:33:45.955Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "fromBlockIndex": 3,
+          "toBlockIndex": 4,
+          "type": "text"
+        }
+      },
+      {
+        "eventId": "evt_1782830026356_jaidt3",
+        "type": "next_block_revealed",
+        "timestamp": "2026-06-30T14:33:46.356Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "fromBlockIndex": 4,
+          "toBlockIndex": 5,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1782830026958_idcek6",
+        "type": "tool_action_click",
+        "timestamp": "2026-06-30T14:33:46.958Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 5,
+          "toolIndex": 3,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1782830028262_uv171z",
+        "type": "next_block_revealed",
+        "timestamp": "2026-06-30T14:33:48.262Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "fromBlockIndex": 5,
+          "toBlockIndex": 6,
+          "type": "text"
+        }
+      },
+      {
+        "eventId": "evt_1782830028664_nhj3vi",
+        "type": "post_tool_content_revealed",
+        "timestamp": "2026-06-30T14:33:48.664Z",
+        "scenario": "A-anthropic",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1782830031212_0u2e04",
+        "type": "scroll_depth_final",
+        "timestamp": "2026-06-30T14:33:51.212Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "maxDepthPercent": 100
+        }
+      },
+      {
+        "eventId": "evt_1782830031212_8si19g",
+        "type": "response_page_leave",
+        "timestamp": "2026-06-30T14:33:51.212Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "scenarioKey": "A-anthropic",
+          "timeOnPageMs": 40569,
+          "thinkingExpanded": false,
+          "thinkingExpandDuration": 0,
+          "blockStates": [
+            {
+              "blockIndex": 0,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 1,
+              "type": "tool",
+              "action": "allow-once",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 2,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 3,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 4,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 5,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 6,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1782830034315_tgcoxf",
+        "type": "response_page_hidden",
+        "timestamp": "2026-06-30T14:33:54.315Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "timeOnPageMs": 43672
+        }
+      },
+      {
+        "eventId": "evt_1782830272471_v21neq",
+        "type": "response_page_enter",
+        "timestamp": "2026-06-30T14:37:52.471Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "prompt": "A",
+          "mcp": "anthropic",
+          "mcpLabel": "Anthropic owned",
+          "scenarioKey": "A-anthropic",
+          "hasContent": true
+        }
+      },
+      {
+        "eventId": "evt_1782830272471_nzgyvc",
+        "type": "thinking_view",
+        "timestamp": "2026-06-30T14:37:52.471Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "autoExpanded": false,
+          "thinkingLength": 579
+        }
+      },
+      {
+        "eventId": "evt_1782830274483_yg2rvg",
+        "type": "notification_card_shown",
+        "timestamp": "2026-06-30T14:37:54.483Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "scenarioKey": "A-anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782830275046_unx8y5",
+        "type": "scroll_depth",
+        "timestamp": "2026-06-30T14:37:55.046Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "depthPercent": 100,
+          "scrollPx": 257
+        }
+      },
+      {
+        "eventId": "evt_1782830388706_94tdo1",
+        "type": "scroll_depth_final",
+        "timestamp": "2026-06-30T14:39:48.706Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "maxDepthPercent": 100
+        }
+      },
+      {
+        "eventId": "evt_1782830388706_s3fk2a",
+        "type": "response_page_leave",
+        "timestamp": "2026-06-30T14:39:48.706Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "scenarioKey": "A-anthropic",
+          "timeOnPageMs": 116236,
+          "thinkingExpanded": false,
+          "thinkingExpandDuration": 0,
+          "blockStates": [
+            {
+              "blockIndex": 0,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 1,
+              "type": "tool",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 2,
+              "type": "tool",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 3,
+              "type": "tool",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 4,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 5,
+              "type": "tool",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 6,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1782830388715_bqciia",
+        "type": "response_page_hidden",
+        "timestamp": "2026-06-30T14:39:48.715Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "timeOnPageMs": 116245
+        }
+      },
+      {
+        "eventId": "evt_1782830388734_3juaqk",
+        "type": "mcp_selector_open",
+        "timestamp": "2026-06-30T14:39:48.734Z",
+        "detail": {
+          "currentPrompt": "A",
+          "hadPreviousMcp": false
+        }
+      },
+      {
+        "eventId": "evt_1782830388734_lg8peg",
+        "type": "prompt_select",
+        "timestamp": "2026-06-30T14:39:48.734Z",
+        "detail": {
+          "prompt": "A",
+          "previousPrompt": null,
+          "promptText": "This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.\n\n--- Email ---\nFrom: Manager2026@gmail.com\nTo: User2026@gmail.com\nTitle: Discuss your project\n\nDear User,\n\nI hope you're doing well.\n\nI'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.\n\nHere are a few time windows that work for me (EST):\n- Monday, May 11 – 10:00 AM to 3:00 PM\n- Tuesday, May 12 – 1:00 PM to 6:00 PM\n- Wednesday, May 13 – 11:00 AM to 6:00 PM\n\nPlease let me know which time works best, and feel free to send a calendar invite once confirmed.\n\nBest regards,\nManager Test\nDepartment of Computer Science\nXX Center, XX City\n--- End of Email ---\n\nCheck my calendar for availability to meet with him, and create an event if possible."
+        }
+      },
+      {
+        "eventId": "evt_1782830388735_c49ndh",
+        "type": "session_start",
+        "timestamp": "2026-06-30T14:39:48.735Z",
+        "detail": {
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "viewportWidth": 1920,
+          "viewportHeight": 837,
+          "isMobile": false,
+          "locked": true,
+          "urlPrompt": "A",
+          "urlMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782830388836_dstvcn",
+        "type": "mcp_selector_close",
+        "timestamp": "2026-06-30T14:39:48.836Z",
+        "detail": {
+          "selectedMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782830388836_dvwo09",
+        "type": "mcp_select",
+        "timestamp": "2026-06-30T14:39:48.836Z",
+        "detail": {
+          "mcp": "anthropic",
+          "previousMcp": null,
+          "currentPrompt": "A"
+        }
+      },
+      {
+        "eventId": "evt_1782830389194_zd0i7k",
+        "type": "session_end",
+        "timestamp": "2026-06-30T14:39:49.194Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic",
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "completedAt": "2026-06-30T14:31:00.278Z"
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1782830389203_czot36",
+        "type": "page_hidden",
+        "timestamp": "2026-06-30T14:39:49.203Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic",
+          "promptSelectorVisible": false,
+          "mcpSelectorVisible": false
+        }
+      },
+      {
+        "eventId": "evt_1782830390459_ltzx19",
+        "type": "homepage_enter",
+        "timestamp": "2026-06-30T14:39:50.459Z",
+        "detail": {
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "completedAt": "2026-06-30T14:31:00.278Z"
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1782830391432_cli4ys",
+        "type": "homepage_scenario_click",
+        "timestamp": "2026-06-30T14:39:51.432Z",
+        "detail": {
+          "scenarioKey": "A-third-party"
+        }
+      },
+      {
+        "eventId": "evt_1782830391432_990b2l",
+        "type": "homepage_leave",
+        "timestamp": "2026-06-30T14:39:51.432Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1782830391818_4mmxu4",
+        "type": "homepage_hidden",
+        "timestamp": "2026-06-30T14:39:51.818Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1782830394665_wkygvm",
+        "type": "mcp_selector_open",
+        "timestamp": "2026-06-30T14:39:54.665Z",
+        "detail": {
+          "currentPrompt": "A",
+          "hadPreviousMcp": false
+        }
+      },
+      {
+        "eventId": "evt_1782830394665_q4z93l",
+        "type": "prompt_select",
+        "timestamp": "2026-06-30T14:39:54.665Z",
+        "detail": {
+          "prompt": "A",
+          "previousPrompt": null,
+          "promptText": "This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.\n\n--- Email ---\nFrom: Manager2026@gmail.com\nTo: User2026@gmail.com\nTitle: Discuss your project\n\nDear User,\n\nI hope you're doing well.\n\nI'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.\n\nHere are a few time windows that work for me (EST):\n- Monday, May 11 – 10:00 AM to 3:00 PM\n- Tuesday, May 12 – 1:00 PM to 6:00 PM\n- Wednesday, May 13 – 11:00 AM to 6:00 PM\n\nPlease let me know which time works best, and feel free to send a calendar invite once confirmed.\n\nBest regards,\nManager Test\nDepartment of Computer Science\nXX Center, XX City\n--- End of Email ---\n\nCheck my calendar for availability to meet with him, and create an event if possible."
+        }
+      },
+      {
+        "eventId": "evt_1782830394666_rcj1tr",
+        "type": "session_start",
+        "timestamp": "2026-06-30T14:39:54.666Z",
+        "detail": {
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "viewportWidth": 1920,
+          "viewportHeight": 837,
+          "isMobile": false,
+          "locked": true,
+          "urlPrompt": "A",
+          "urlMcp": "third-party"
+        }
+      },
+      {
+        "eventId": "evt_1782830394767_i5zs9q",
+        "type": "mcp_selector_close",
+        "timestamp": "2026-06-30T14:39:54.767Z",
+        "detail": {
+          "selectedMcp": "third-party"
+        }
+      },
+      {
+        "eventId": "evt_1782830394767_phbc2r",
+        "type": "mcp_select",
+        "timestamp": "2026-06-30T14:39:54.767Z",
+        "detail": {
+          "mcp": "third-party",
+          "previousMcp": null,
+          "currentPrompt": "A"
+        }
+      },
+      {
+        "eventId": "evt_1782830396028_rxfr5z",
+        "type": "send_message",
+        "timestamp": "2026-06-30T14:39:56.028Z",
+        "detail": {
+          "prompt": "A",
+          "mcp": "third-party",
+          "promptText": "This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.\n\n--- Email ---\nFrom: Manager2026@gmail.com\nTo: User2026@gmail.com\nTitle: Discuss your project\n\nDear User,\n\nI hope you're doing well.\n\nI'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.\n\nHere are a few time windows that work for me (EST):\n- Monday, May 11 – 10:00 AM to 3:00 PM\n- Tuesday, May 12 – 1:00 PM to 6:00 PM\n- Wednesday, May 13 – 11:00 AM to 6:00 PM\n\nPlease let me know which time works best, and feel free to send a calendar invite once confirmed.\n\nBest regards,\nManager Test\nDepartment of Computer Science\nXX Center, XX City\n--- End of Email ---\n\nCheck my calendar for availability to meet with him, and create an event if possible."
+        }
+      },
+      {
+        "eventId": "evt_1782830396028_j1lh8x",
+        "type": "enter_response_interface",
+        "timestamp": "2026-06-30T14:39:56.028Z",
+        "detail": {
+          "prompt": "A",
+          "mcp": "third-party",
+          "mcpLabel": "Third party",
+          "timestamp": "2026-06-30T14:39:56.028Z"
+        }
+      },
+      {
+        "eventId": "evt_1782830396431_07gp26",
+        "type": "session_end",
+        "timestamp": "2026-06-30T14:39:56.431Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "third-party",
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "completedAt": "2026-06-30T14:31:00.278Z"
+            },
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "completedAt": "2026-06-30T14:39:56.028Z"
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1782830396811_1zjc93",
+        "type": "page_hidden",
+        "timestamp": "2026-06-30T14:39:56.811Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "third-party",
+          "promptSelectorVisible": false,
+          "mcpSelectorVisible": false
+        }
+      },
+      {
+        "eventId": "evt_1782830397391_lj9ctn",
+        "type": "response_page_enter",
+        "timestamp": "2026-06-30T14:39:57.391Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "prompt": "A",
+          "mcp": "third-party",
+          "mcpLabel": "Third party",
+          "scenarioKey": "A-third-party",
+          "hasContent": true
+        }
+      },
+      {
+        "eventId": "evt_1782830397392_tl0hc1",
+        "type": "thinking_view",
+        "timestamp": "2026-06-30T14:39:57.392Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "autoExpanded": false,
+          "thinkingLength": 449
+        }
+      },
+      {
+        "eventId": "evt_1782830399394_9gbunw",
+        "type": "notification_card_shown",
+        "timestamp": "2026-06-30T14:39:59.394Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "scenarioKey": "A-third-party"
+        }
+      },
+      {
+        "eventId": "evt_1782830399984_hsgmki",
+        "type": "scroll_depth",
+        "timestamp": "2026-06-30T14:39:59.984Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "depthPercent": 98,
+          "scrollPx": 320
+        }
+      },
+      {
+        "eventId": "evt_1782830478985_nfk3yv",
+        "type": "scroll_depth",
+        "timestamp": "2026-06-30T14:41:18.985Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "depthPercent": 100,
+          "scrollPx": 748
+        }
+      },
+      {
+        "eventId": "evt_1782830494009_f20tc3",
+        "type": "tool_block_hover",
+        "timestamp": "2026-06-30T14:41:34.009Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "blockIndex": 1,
+          "durationMs": 1428
+        }
+      },
+      {
+        "eventId": "evt_1782830645637_wz3jci",
+        "type": "tool_block_hover",
+        "timestamp": "2026-06-30T14:44:05.637Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "blockIndex": 1,
+          "durationMs": 309
+        }
+      },
+      {
+        "eventId": "evt_1782830649574_ik30k6",
+        "type": "scroll_depth_final",
+        "timestamp": "2026-06-30T14:44:09.574Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "maxDepthPercent": 100
+        }
+      },
+      {
+        "eventId": "evt_1782830649574_qn03kv",
+        "type": "response_page_leave",
+        "timestamp": "2026-06-30T14:44:09.574Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "scenarioKey": "A-third-party",
+          "timeOnPageMs": 252183,
+          "thinkingExpanded": false,
+          "thinkingExpandDuration": 0,
+          "blockStates": [
+            {
+              "blockIndex": 0,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 1,
+              "type": "tool",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 2,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 3,
+              "type": "tool",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 4,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1782830649587_wch4kx",
+        "type": "response_page_hidden",
+        "timestamp": "2026-06-30T14:44:09.587Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "timeOnPageMs": 252196
+        }
+      },
+      {
+        "eventId": "evt_1782830649607_l6hszf",
+        "type": "mcp_selector_open",
+        "timestamp": "2026-06-30T14:44:09.607Z",
+        "detail": {
+          "currentPrompt": "A",
+          "hadPreviousMcp": false
+        }
+      },
+      {
+        "eventId": "evt_1782830649608_ey8m5g",
+        "type": "prompt_select",
+        "timestamp": "2026-06-30T14:44:09.608Z",
+        "detail": {
+          "prompt": "A",
+          "previousPrompt": null,
+          "promptText": "This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.\n\n--- Email ---\nFrom: Manager2026@gmail.com\nTo: User2026@gmail.com\nTitle: Discuss your project\n\nDear User,\n\nI hope you're doing well.\n\nI'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.\n\nHere are a few time windows that work for me (EST):\n- Monday, May 11 – 10:00 AM to 3:00 PM\n- Tuesday, May 12 – 1:00 PM to 6:00 PM\n- Wednesday, May 13 – 11:00 AM to 6:00 PM\n\nPlease let me know which time works best, and feel free to send a calendar invite once confirmed.\n\nBest regards,\nManager Test\nDepartment of Computer Science\nXX Center, XX City\n--- End of Email ---\n\nCheck my calendar for availability to meet with him, and create an event if possible."
+        }
+      },
+      {
+        "eventId": "evt_1782830649608_4wdfuj",
+        "type": "session_start",
+        "timestamp": "2026-06-30T14:44:09.608Z",
+        "detail": {
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "viewportWidth": 1920,
+          "viewportHeight": 837,
+          "isMobile": false,
+          "locked": true,
+          "urlPrompt": "A",
+          "urlMcp": "third-party"
+        }
+      },
+      {
+        "eventId": "evt_1782830649709_w4kj0h",
+        "type": "mcp_selector_close",
+        "timestamp": "2026-06-30T14:44:09.709Z",
+        "detail": {
+          "selectedMcp": "third-party"
+        }
+      },
+      {
+        "eventId": "evt_1782830649710_nkt83o",
+        "type": "mcp_select",
+        "timestamp": "2026-06-30T14:44:09.710Z",
+        "detail": {
+          "mcp": "third-party",
+          "previousMcp": null,
+          "currentPrompt": "A"
+        }
+      },
+      {
+        "eventId": "evt_1782830650062_ipp3t6",
+        "type": "session_end",
+        "timestamp": "2026-06-30T14:44:10.062Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "third-party",
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "completedAt": "2026-06-30T14:31:00.278Z"
+            },
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "completedAt": "2026-06-30T14:39:56.028Z"
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1782830650072_d6s3i0",
+        "type": "page_hidden",
+        "timestamp": "2026-06-30T14:44:10.072Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "third-party",
+          "promptSelectorVisible": false,
+          "mcpSelectorVisible": false
+        }
+      },
+      {
+        "eventId": "evt_1782830651233_jkp06n",
+        "type": "homepage_enter",
+        "timestamp": "2026-06-30T14:44:11.233Z",
+        "detail": {
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "completedAt": "2026-06-30T14:31:00.278Z"
+            },
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "completedAt": "2026-06-30T14:39:56.028Z"
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1782830656576_kt8b4r",
+        "type": "homepage_scenario_click",
+        "timestamp": "2026-06-30T14:44:16.576Z",
+        "detail": {
+          "scenarioKey": "A-anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782830656577_l8ri6v",
+        "type": "homepage_leave",
+        "timestamp": "2026-06-30T14:44:16.577Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1782830657384_wvb3i7",
+        "type": "homepage_hidden",
+        "timestamp": "2026-06-30T14:44:17.384Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1782830662301_1wwcge",
+        "type": "homepage_visible",
+        "timestamp": "2026-06-30T14:44:22.301Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1782830669516_168q7v",
+        "type": "homepage_leave",
+        "timestamp": "2026-06-30T14:44:29.516Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1782830670205_bd4i00",
+        "type": "homepage_hidden",
+        "timestamp": "2026-06-30T14:44:30.205Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1782830804275_plu7d8",
+        "type": "homepage_visible",
+        "timestamp": "2026-06-30T14:46:44.275Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1782830814365_y3ahce",
+        "type": "homepage_leave",
+        "timestamp": "2026-06-30T14:46:54.365Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1782830814746_jcluym",
+        "type": "homepage_hidden",
+        "timestamp": "2026-06-30T14:46:54.746Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1782830815127_33k4ih",
+        "type": "homepage_enter",
+        "timestamp": "2026-06-30T14:46:55.127Z",
+        "detail": {
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "completedAt": "2026-06-30T14:31:00.278Z"
+            },
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "completedAt": "2026-06-30T14:39:56.028Z"
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1782830815839_qsgolb",
+        "type": "homepage_scenario_click",
+        "timestamp": "2026-06-30T14:46:55.839Z",
+        "detail": {
+          "scenarioKey": "A-anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782830815840_5cqo16",
+        "type": "homepage_leave",
+        "timestamp": "2026-06-30T14:46:55.840Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1782830815850_sscypc",
+        "type": "homepage_hidden",
+        "timestamp": "2026-06-30T14:46:55.850Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1782830818087_ct6zn5",
+        "type": "mcp_selector_open",
+        "timestamp": "2026-06-30T14:46:58.087Z",
+        "detail": {
+          "currentPrompt": "A",
+          "hadPreviousMcp": false
+        }
+      },
+      {
+        "eventId": "evt_1782830818087_uag8g4",
+        "type": "prompt_select",
+        "timestamp": "2026-06-30T14:46:58.087Z",
+        "detail": {
+          "prompt": "A",
+          "previousPrompt": null,
+          "promptText": "This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.\n\n--- Email ---\nFrom: Manager2026@gmail.com\nTo: User2026@gmail.com\nTitle: Discuss your project\n\nDear User,\n\nI hope you're doing well.\n\nI'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.\n\nHere are a few time windows that work for me (EST):\n- Monday, May 11 – 10:00 AM to 3:00 PM\n- Tuesday, May 12 – 1:00 PM to 6:00 PM\n- Wednesday, May 13 – 11:00 AM to 6:00 PM\n\nPlease let me know which time works best, and feel free to send a calendar invite once confirmed.\n\nBest regards,\nManager Test\nDepartment of Computer Science\nXX Center, XX City\n--- End of Email ---\n\nCheck my calendar for availability to meet with him, and create an event if possible."
+        }
+      },
+      {
+        "eventId": "evt_1782830818087_gp1ccw",
+        "type": "session_start",
+        "timestamp": "2026-06-30T14:46:58.087Z",
+        "detail": {
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "viewportWidth": 1920,
+          "viewportHeight": 837,
+          "isMobile": false,
+          "locked": true,
+          "urlPrompt": "A",
+          "urlMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782830818189_2aqd4c",
+        "type": "mcp_selector_close",
+        "timestamp": "2026-06-30T14:46:58.189Z",
+        "detail": {
+          "selectedMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782830818189_is8swg",
+        "type": "mcp_select",
+        "timestamp": "2026-06-30T14:46:58.189Z",
+        "detail": {
+          "mcp": "anthropic",
+          "previousMcp": null,
+          "currentPrompt": "A"
+        }
+      },
+      {
+        "eventId": "evt_1782830819073_vosb89",
+        "type": "send_message",
+        "timestamp": "2026-06-30T14:46:59.073Z",
+        "detail": {
+          "prompt": "A",
+          "mcp": "anthropic",
+          "promptText": "This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.\n\n--- Email ---\nFrom: Manager2026@gmail.com\nTo: User2026@gmail.com\nTitle: Discuss your project\n\nDear User,\n\nI hope you're doing well.\n\nI'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.\n\nHere are a few time windows that work for me (EST):\n- Monday, May 11 – 10:00 AM to 3:00 PM\n- Tuesday, May 12 – 1:00 PM to 6:00 PM\n- Wednesday, May 13 – 11:00 AM to 6:00 PM\n\nPlease let me know which time works best, and feel free to send a calendar invite once confirmed.\n\nBest regards,\nManager Test\nDepartment of Computer Science\nXX Center, XX City\n--- End of Email ---\n\nCheck my calendar for availability to meet with him, and create an event if possible."
+        }
+      },
+      {
+        "eventId": "evt_1782830819074_5d3ria",
+        "type": "enter_response_interface",
+        "timestamp": "2026-06-30T14:46:59.074Z",
+        "detail": {
+          "prompt": "A",
+          "mcp": "anthropic",
+          "mcpLabel": "Anthropic owned",
+          "timestamp": "2026-06-30T14:46:59.074Z"
+        }
+      },
+      {
+        "eventId": "evt_1782830819476_vij6p4",
+        "type": "session_end",
+        "timestamp": "2026-06-30T14:46:59.476Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic",
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "completedAt": "2026-06-30T14:31:00.278Z"
+            },
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "completedAt": "2026-06-30T14:39:56.028Z"
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1782830820036_djazbs",
+        "type": "page_hidden",
+        "timestamp": "2026-06-30T14:47:00.036Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic",
+          "promptSelectorVisible": false,
+          "mcpSelectorVisible": false
+        }
+      },
+      {
+        "eventId": "evt_1782830820794_tgr3il",
+        "type": "response_page_enter",
+        "timestamp": "2026-06-30T14:47:00.794Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "prompt": "A",
+          "mcp": "anthropic",
+          "mcpLabel": "Anthropic owned",
+          "scenarioKey": "A-anthropic",
+          "hasContent": true
+        }
+      },
+      {
+        "eventId": "evt_1782830820795_4co7st",
+        "type": "thinking_view",
+        "timestamp": "2026-06-30T14:47:00.795Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "autoExpanded": false,
+          "thinkingLength": 579
+        }
+      },
+      {
+        "eventId": "evt_1782830822807_hxaq2b",
+        "type": "notification_card_shown",
+        "timestamp": "2026-06-30T14:47:02.807Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "scenarioKey": "A-anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782830823361_ksa8c9",
+        "type": "scroll_depth",
+        "timestamp": "2026-06-30T14:47:03.361Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "depthPercent": 100,
+          "scrollPx": 257
+        }
+      },
+      {
+        "eventId": "evt_1782830836137_h56k8a",
+        "type": "scroll_depth_final",
+        "timestamp": "2026-06-30T14:47:16.137Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "maxDepthPercent": 100
+        }
+      },
+      {
+        "eventId": "evt_1782830836138_g2px0k",
+        "type": "response_page_leave",
+        "timestamp": "2026-06-30T14:47:16.138Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "scenarioKey": "A-anthropic",
+          "timeOnPageMs": 15345,
+          "thinkingExpanded": false,
+          "thinkingExpandDuration": 0,
+          "blockStates": [
+            {
+              "blockIndex": 0,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 1,
+              "type": "tool",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 2,
+              "type": "tool",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 3,
+              "type": "tool",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 4,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 5,
+              "type": "tool",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 6,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1782830836140_n3wcxj",
+        "type": "page_visible",
+        "timestamp": "2026-06-30T14:47:16.140Z",
+        "detail": {
+          "hiddenDurationMs": 16104,
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782830836141_hldyjn",
+        "type": "response_page_hidden",
+        "timestamp": "2026-06-30T14:47:16.141Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "timeOnPageMs": 15348
+        }
+      },
+      {
+        "eventId": "evt_1782830837321_2yr80d",
+        "type": "session_end",
+        "timestamp": "2026-06-30T14:47:17.321Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic",
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "completedAt": "2026-06-30T14:31:00.278Z"
+            },
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "completedAt": "2026-06-30T14:39:56.028Z"
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1782830837325_8pquxz",
+        "type": "page_hidden",
+        "timestamp": "2026-06-30T14:47:17.325Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic",
+          "promptSelectorVisible": false,
+          "mcpSelectorVisible": false
+        }
+      },
+      {
+        "eventId": "evt_1782830843183_amdchn",
+        "type": "mcp_selector_open",
+        "timestamp": "2026-06-30T14:47:23.183Z",
+        "detail": {
+          "currentPrompt": "A",
+          "hadPreviousMcp": false
+        }
+      },
+      {
+        "eventId": "evt_1782830843184_zckmbu",
+        "type": "prompt_select",
+        "timestamp": "2026-06-30T14:47:23.184Z",
+        "detail": {
+          "prompt": "A",
+          "previousPrompt": null,
+          "promptText": "This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.\n\n--- Email ---\nFrom: Manager2026@gmail.com\nTo: User2026@gmail.com\nTitle: Discuss your project\n\nDear User,\n\nI hope you're doing well.\n\nI'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.\n\nHere are a few time windows that work for me (EST):\n- Monday, May 11 – 10:00 AM to 3:00 PM\n- Tuesday, May 12 – 1:00 PM to 6:00 PM\n- Wednesday, May 13 – 11:00 AM to 6:00 PM\n\nPlease let me know which time works best, and feel free to send a calendar invite once confirmed.\n\nBest regards,\nManager Test\nDepartment of Computer Science\nXX Center, XX City\n--- End of Email ---\n\nCheck my calendar for availability to meet with him, and create an event if possible."
+        }
+      },
+      {
+        "eventId": "evt_1782830843184_6wip63",
+        "type": "session_start",
+        "timestamp": "2026-06-30T14:47:23.184Z",
+        "detail": {
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "viewportWidth": 1920,
+          "viewportHeight": 837,
+          "isMobile": false,
+          "locked": true,
+          "urlPrompt": "A",
+          "urlMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782830843286_9l3xgy",
+        "type": "mcp_selector_close",
+        "timestamp": "2026-06-30T14:47:23.286Z",
+        "detail": {
+          "selectedMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782830843286_q2wut0",
+        "type": "mcp_select",
+        "timestamp": "2026-06-30T14:47:23.286Z",
+        "detail": {
+          "mcp": "anthropic",
+          "previousMcp": null,
+          "currentPrompt": "A"
+        }
+      },
+      {
+        "eventId": "evt_1782830844341_6mu7hk",
+        "type": "send_message",
+        "timestamp": "2026-06-30T14:47:24.341Z",
+        "detail": {
+          "prompt": "A",
+          "mcp": "anthropic",
+          "promptText": "This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.\n\n--- Email ---\nFrom: Manager2026@gmail.com\nTo: User2026@gmail.com\nTitle: Discuss your project\n\nDear User,\n\nI hope you're doing well.\n\nI'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.\n\nHere are a few time windows that work for me (EST):\n- Monday, May 11 – 10:00 AM to 3:00 PM\n- Tuesday, May 12 – 1:00 PM to 6:00 PM\n- Wednesday, May 13 – 11:00 AM to 6:00 PM\n\nPlease let me know which time works best, and feel free to send a calendar invite once confirmed.\n\nBest regards,\nManager Test\nDepartment of Computer Science\nXX Center, XX City\n--- End of Email ---\n\nCheck my calendar for availability to meet with him, and create an event if possible."
+        }
+      },
+      {
+        "eventId": "evt_1782830844341_8sr8zc",
+        "type": "enter_response_interface",
+        "timestamp": "2026-06-30T14:47:24.341Z",
+        "detail": {
+          "prompt": "A",
+          "mcp": "anthropic",
+          "mcpLabel": "Anthropic owned",
+          "timestamp": "2026-06-30T14:47:24.341Z"
+        }
+      },
+      {
+        "eventId": "evt_1782830844745_yayfl6",
+        "type": "session_end",
+        "timestamp": "2026-06-30T14:47:24.745Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic",
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "completedAt": "2026-06-30T14:31:00.278Z"
+            },
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "completedAt": "2026-06-30T14:39:56.028Z"
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1782830844763_qtaist",
+        "type": "page_hidden",
+        "timestamp": "2026-06-30T14:47:24.763Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic",
+          "promptSelectorVisible": false,
+          "mcpSelectorVisible": false
+        }
+      },
+      {
+        "eventId": "evt_1782830844784_2pv4w9",
+        "type": "response_page_enter",
+        "timestamp": "2026-06-30T14:47:24.784Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "prompt": "A",
+          "mcp": "anthropic",
+          "mcpLabel": "Anthropic owned",
+          "scenarioKey": "A-anthropic",
+          "hasContent": true
+        }
+      },
+      {
+        "eventId": "evt_1782830844784_s6nopk",
+        "type": "thinking_view",
+        "timestamp": "2026-06-30T14:47:24.784Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "autoExpanded": false,
+          "thinkingLength": 579
+        }
+      },
+      {
+        "eventId": "evt_1782830846798_39qotu",
+        "type": "notification_card_shown",
+        "timestamp": "2026-06-30T14:47:26.798Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "scenarioKey": "A-anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782830847356_xlsmpt",
+        "type": "scroll_depth",
+        "timestamp": "2026-06-30T14:47:27.356Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "depthPercent": 100,
+          "scrollPx": 257
+        }
+      },
+      {
+        "eventId": "evt_1782830946160_q1wvlj",
+        "type": "response_page_hidden",
+        "timestamp": "2026-06-30T14:49:06.160Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "timeOnPageMs": 101377
+        }
+      },
+      {
+        "eventId": "evt_1782830947108_qfccsn",
+        "type": "response_page_visible",
+        "timestamp": "2026-06-30T14:49:07.108Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "timeOnPageMs": 102325
+        }
+      },
+      {
+        "eventId": "evt_1782830959251_2u5uau",
+        "type": "response_page_hidden",
+        "timestamp": "2026-06-30T14:49:19.251Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "timeOnPageMs": 114467
+        }
+      },
+      {
+        "eventId": "evt_1782830965974_yfc9sd",
+        "type": "response_page_visible",
+        "timestamp": "2026-06-30T14:49:25.974Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "timeOnPageMs": 121190
+        }
+      },
+      {
+        "eventId": "evt_1782830971781_at4u4p",
+        "type": "scroll_depth_final",
+        "timestamp": "2026-06-30T14:49:31.781Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "maxDepthPercent": 100
+        }
+      },
+      {
+        "eventId": "evt_1782830971782_jbzht5",
+        "type": "response_page_leave",
+        "timestamp": "2026-06-30T14:49:31.782Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "scenarioKey": "A-anthropic",
+          "timeOnPageMs": 126999,
+          "thinkingExpanded": false,
+          "thinkingExpandDuration": 0,
+          "blockStates": [
+            {
+              "blockIndex": 0,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 1,
+              "type": "tool",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 2,
+              "type": "tool",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 3,
+              "type": "tool",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 4,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 5,
+              "type": "tool",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 6,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1782830971793_7n7fwb",
+        "type": "response_page_hidden",
+        "timestamp": "2026-06-30T14:49:31.793Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "timeOnPageMs": 127010
+        }
+      },
+      {
+        "eventId": "evt_1782830971808_e9ru5w",
+        "type": "mcp_selector_open",
+        "timestamp": "2026-06-30T14:49:31.808Z",
+        "detail": {
+          "currentPrompt": "A",
+          "hadPreviousMcp": false
+        }
+      },
+      {
+        "eventId": "evt_1782830971808_32otuf",
+        "type": "prompt_select",
+        "timestamp": "2026-06-30T14:49:31.808Z",
+        "detail": {
+          "prompt": "A",
+          "previousPrompt": null,
+          "promptText": "This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.\n\n--- Email ---\nFrom: Manager2026@gmail.com\nTo: User2026@gmail.com\nTitle: Discuss your project\n\nDear User,\n\nI hope you're doing well.\n\nI'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.\n\nHere are a few time windows that work for me (EST):\n- Monday, May 11 – 10:00 AM to 3:00 PM\n- Tuesday, May 12 – 1:00 PM to 6:00 PM\n- Wednesday, May 13 – 11:00 AM to 6:00 PM\n\nPlease let me know which time works best, and feel free to send a calendar invite once confirmed.\n\nBest regards,\nManager Test\nDepartment of Computer Science\nXX Center, XX City\n--- End of Email ---\n\nCheck my calendar for availability to meet with him, and create an event if possible."
+        }
+      },
+      {
+        "eventId": "evt_1782830971809_05k5u8",
+        "type": "session_start",
+        "timestamp": "2026-06-30T14:49:31.809Z",
+        "detail": {
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "viewportWidth": 1920,
+          "viewportHeight": 837,
+          "isMobile": false,
+          "locked": true,
+          "urlPrompt": "A",
+          "urlMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782830971911_l97ytw",
+        "type": "mcp_selector_close",
+        "timestamp": "2026-06-30T14:49:31.911Z",
+        "detail": {
+          "selectedMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1782830971911_0zgk4p",
+        "type": "mcp_select",
+        "timestamp": "2026-06-30T14:49:31.911Z",
+        "detail": {
+          "mcp": "anthropic",
+          "previousMcp": null,
+          "currentPrompt": "A"
+        }
+      },
+      {
+        "eventId": "evt_1782830972326_2cuei6",
+        "type": "session_end",
+        "timestamp": "2026-06-30T14:49:32.326Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic",
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "completedAt": "2026-06-30T14:31:00.278Z"
+            },
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "completedAt": "2026-06-30T14:39:56.028Z"
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1782830972336_1nngso",
+        "type": "page_hidden",
+        "timestamp": "2026-06-30T14:49:32.336Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic",
+          "promptSelectorVisible": false,
+          "mcpSelectorVisible": false
+        }
+      },
+      {
+        "eventId": "evt_1782830972871_qgiyla",
+        "type": "homepage_enter",
+        "timestamp": "2026-06-30T14:49:32.871Z",
+        "detail": {
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "completedAt": "2026-06-30T14:31:00.278Z"
+            },
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "completedAt": "2026-06-30T14:39:56.028Z"
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1782830973899_nd2j0i",
+        "type": "homepage_scenario_click",
+        "timestamp": "2026-06-30T14:49:33.899Z",
+        "detail": {
+          "scenarioKey": "A-third-party"
+        }
+      },
+      {
+        "eventId": "evt_1782830973900_mktc15",
+        "type": "homepage_leave",
+        "timestamp": "2026-06-30T14:49:33.901Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1782830973919_nhdj1m",
+        "type": "homepage_hidden",
+        "timestamp": "2026-06-30T14:49:33.919Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1782830974692_w48m3p",
+        "type": "mcp_selector_open",
+        "timestamp": "2026-06-30T14:49:34.692Z",
+        "detail": {
+          "currentPrompt": "A",
+          "hadPreviousMcp": false
+        }
+      },
+      {
+        "eventId": "evt_1782830974693_h6qxai",
+        "type": "prompt_select",
+        "timestamp": "2026-06-30T14:49:34.693Z",
+        "detail": {
+          "prompt": "A",
+          "previousPrompt": null,
+          "promptText": "This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.\n\n--- Email ---\nFrom: Manager2026@gmail.com\nTo: User2026@gmail.com\nTitle: Discuss your project\n\nDear User,\n\nI hope you're doing well.\n\nI'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.\n\nHere are a few time windows that work for me (EST):\n- Monday, May 11 – 10:00 AM to 3:00 PM\n- Tuesday, May 12 – 1:00 PM to 6:00 PM\n- Wednesday, May 13 – 11:00 AM to 6:00 PM\n\nPlease let me know which time works best, and feel free to send a calendar invite once confirmed.\n\nBest regards,\nManager Test\nDepartment of Computer Science\nXX Center, XX City\n--- End of Email ---\n\nCheck my calendar for availability to meet with him, and create an event if possible."
+        }
+      },
+      {
+        "eventId": "evt_1782830974693_9oigov",
+        "type": "session_start",
+        "timestamp": "2026-06-30T14:49:34.693Z",
+        "detail": {
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "viewportWidth": 1920,
+          "viewportHeight": 837,
+          "isMobile": false,
+          "locked": true,
+          "urlPrompt": "A",
+          "urlMcp": "third-party"
+        }
+      },
+      {
+        "eventId": "evt_1782830974794_r8p6pz",
+        "type": "mcp_selector_close",
+        "timestamp": "2026-06-30T14:49:34.794Z",
+        "detail": {
+          "selectedMcp": "third-party"
+        }
+      },
+      {
+        "eventId": "evt_1782830974794_s01y5a",
+        "type": "mcp_select",
+        "timestamp": "2026-06-30T14:49:34.794Z",
+        "detail": {
+          "mcp": "third-party",
+          "previousMcp": null,
+          "currentPrompt": "A"
+        }
+      },
+      {
+        "eventId": "evt_1782830975928_l7mrl4",
+        "type": "send_message",
+        "timestamp": "2026-06-30T14:49:35.928Z",
+        "detail": {
+          "prompt": "A",
+          "mcp": "third-party",
+          "promptText": "This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.\n\n--- Email ---\nFrom: Manager2026@gmail.com\nTo: User2026@gmail.com\nTitle: Discuss your project\n\nDear User,\n\nI hope you're doing well.\n\nI'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.\n\nHere are a few time windows that work for me (EST):\n- Monday, May 11 – 10:00 AM to 3:00 PM\n- Tuesday, May 12 – 1:00 PM to 6:00 PM\n- Wednesday, May 13 – 11:00 AM to 6:00 PM\n\nPlease let me know which time works best, and feel free to send a calendar invite once confirmed.\n\nBest regards,\nManager Test\nDepartment of Computer Science\nXX Center, XX City\n--- End of Email ---\n\nCheck my calendar for availability to meet with him, and create an event if possible."
+        }
+      },
+      {
+        "eventId": "evt_1782830975928_zbx2t4",
+        "type": "enter_response_interface",
+        "timestamp": "2026-06-30T14:49:35.928Z",
+        "detail": {
+          "prompt": "A",
+          "mcp": "third-party",
+          "mcpLabel": "Third party",
+          "timestamp": "2026-06-30T14:49:35.928Z"
+        }
+      },
+      {
+        "eventId": "evt_1782830976331_xxiq0s",
+        "type": "session_end",
+        "timestamp": "2026-06-30T14:49:36.331Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "third-party",
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "completedAt": "2026-06-30T14:31:00.278Z"
+            },
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "completedAt": "2026-06-30T14:39:56.028Z"
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1782830976340_xshysr",
+        "type": "page_hidden",
+        "timestamp": "2026-06-30T14:49:36.340Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "third-party",
+          "promptSelectorVisible": false,
+          "mcpSelectorVisible": false
+        }
+      },
+      {
+        "eventId": "evt_1782830976388_l2yxde",
+        "type": "response_page_enter",
+        "timestamp": "2026-06-30T14:49:36.388Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "prompt": "A",
+          "mcp": "third-party",
+          "mcpLabel": "Third party",
+          "scenarioKey": "A-third-party",
+          "hasContent": true
+        }
+      },
+      {
+        "eventId": "evt_1782830976389_shxqjc",
+        "type": "thinking_view",
+        "timestamp": "2026-06-30T14:49:36.389Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "autoExpanded": false,
+          "thinkingLength": 449
+        }
+      },
+      {
+        "eventId": "evt_1782830978393_urze8k",
+        "type": "notification_card_shown",
+        "timestamp": "2026-06-30T14:49:38.393Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "scenarioKey": "A-third-party"
+        }
+      },
+      {
+        "eventId": "evt_1782830978991_nogmy6",
+        "type": "scroll_depth",
+        "timestamp": "2026-06-30T14:49:38.991Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "depthPercent": 98,
+          "scrollPx": 320
+        }
+      },
+      {
+        "eventId": "evt_1782831089260_n0ftf8",
+        "type": "response_page_hidden",
+        "timestamp": "2026-06-30T14:51:29.260Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "timeOnPageMs": 112871
+        }
+      },
+      {
+        "eventId": "evt_1782831575320_qtdprm",
+        "type": "response_page_visible",
+        "timestamp": "2026-06-30T14:59:35.320Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "timeOnPageMs": 598931
+        }
+      },
+      {
+        "eventId": "evt_1782831581770_vdu29b",
+        "type": "response_page_hidden",
+        "timestamp": "2026-06-30T14:59:41.770Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "timeOnPageMs": 605382
+        }
+      }
+    ],
+    "completedScenarios": [
+      {
+        "prompt": "A",
+        "mcp": "anthropic",
+        "completedAt": "2026-06-30T14:31:00.278Z"
+      },
+      {
+        "prompt": "A",
+        "mcp": "third-party",
+        "completedAt": "2026-06-30T14:39:56.028Z"
+      }
+    ]
+  },
+  "miniSurveys": null,
+  "surveyResponses": {
+    "sessionId": "survey_1782830679330",
+    "startedAt": "2026-06-30T14:44:39.330Z",
+    "completedAt": "2026-06-30T15:01:47.911Z",
+    "submitted": true,
+    "responses": {
+      "q1": [
+        "device"
+      ],
+      "q2": "mcp-llm-tp",
+      "q3": "2",
+      "q4": "3",
+      "q5": "3",
+      "q6": "3",
+      "q7": "3",
+      "q8": "3",
+      "q9": "3",
+      "q10": "3",
+      "q11": "3",
+      "q12": "3",
+      "q13": "3",
+      "q14": "3",
+      "q15": "3",
+      "q16": "3",
+      "q17": "3",
+      "q18": "3",
+      "q19": "3",
+      "q20": "3",
+      "q21": "3",
+      "q25": "2",
+      "q26": "2",
+      "q27": "2",
+      "q28": "2",
+      "q29": "3",
+      "q22_target": "A",
+      "q22_agree": "3",
+      "q23_target": "A",
+      "q23_agree": "2",
+      "q24_target": "B",
+      "q24_agree": "2"
+    },
+    "events": [
+      {
+        "type": "survey_enter",
+        "timestamp": "2026-06-30T14:44:39.330Z",
+        "detail": {
+          "submitted": false
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:44:42.839Z",
+        "detail": {
+          "question": "q1",
+          "value": "third-party"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:44:50.947Z",
+        "detail": {
+          "question": "q1",
+          "value": "ai-app"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:44:51.706Z",
+        "detail": {
+          "question": "q1",
+          "value": "third-party"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:44:52.065Z",
+        "detail": {
+          "question": "q1",
+          "value": "mcp-server"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:44:52.345Z",
+        "detail": {
+          "question": "q1",
+          "value": "third-party"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:44:52.614Z",
+        "detail": {
+          "question": "q1",
+          "value": "device"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:44:52.965Z",
+        "detail": {
+          "question": "q1",
+          "value": "third-party"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:44:53.543Z",
+        "detail": {
+          "question": "q1",
+          "value": "mcp-server"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:44:53.934Z",
+        "detail": {
+          "question": "q1",
+          "value": "third-party"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:44:54.367Z",
+        "detail": {
+          "question": "q1",
+          "value": "mcp-server"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:44:54.682Z",
+        "detail": {
+          "question": "q1",
+          "value": "ai-app"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:44:54.946Z",
+        "detail": {
+          "question": "q1",
+          "value": "mcp-server"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:44:55.226Z",
+        "detail": {
+          "question": "q1",
+          "value": "third-party"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:44:55.830Z",
+        "detail": {
+          "question": "q1",
+          "value": "device"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:45:16.874Z",
+        "detail": {
+          "question": "q2",
+          "value": "mcp-llm-tp"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:45:19.517Z",
+        "detail": {
+          "question": "q2",
+          "value": "llm-tp"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:45:20.227Z",
+        "detail": {
+          "question": "q2",
+          "value": "llm-mcp-tp"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:45:27.268Z",
+        "detail": {
+          "question": "q3",
+          "value": "2"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:45:27.744Z",
+        "detail": {
+          "question": "q4",
+          "value": "2"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:45:28.947Z",
+        "detail": {
+          "question": "q1",
+          "value": "device"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:45:39.674Z",
+        "detail": {
+          "question": "q2",
+          "value": "other"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:45:44.946Z",
+        "detail": {
+          "question": "q2",
+          "value": "llm-tp"
+        }
+      },
+      {
+        "type": "survey_hidden",
+        "timestamp": "2026-06-30T14:46:44.274Z",
+        "detail": {}
+      },
+      {
+        "type": "survey_visible",
+        "timestamp": "2026-06-30T14:49:19.252Z",
+        "detail": {
+          "hiddenDurationMs": 154978
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:49:23.164Z",
+        "detail": {
+          "question": "q2",
+          "value": "other"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:49:24.433Z",
+        "detail": {
+          "question": "q2",
+          "value": "llm-tp"
+        }
+      },
+      {
+        "type": "survey_hidden",
+        "timestamp": "2026-06-30T14:49:25.972Z",
+        "detail": {}
+      },
+      {
+        "type": "survey_visible",
+        "timestamp": "2026-06-30T14:51:29.262Z",
+        "detail": {
+          "hiddenDurationMs": 123290
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:32.543Z",
+        "detail": {
+          "question": "q4",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:33.168Z",
+        "detail": {
+          "question": "q5",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:33.923Z",
+        "detail": {
+          "question": "q6",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:35.038Z",
+        "detail": {
+          "question": "q7",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:35.289Z",
+        "detail": {
+          "question": "q8",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:36.022Z",
+        "detail": {
+          "question": "q9",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:36.848Z",
+        "detail": {
+          "question": "q10",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:37.080Z",
+        "detail": {
+          "question": "q11",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:38.018Z",
+        "detail": {
+          "question": "q12",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:38.812Z",
+        "detail": {
+          "question": "q13",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:39.052Z",
+        "detail": {
+          "question": "q14",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:39.802Z",
+        "detail": {
+          "question": "q15",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:40.036Z",
+        "detail": {
+          "question": "q16",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:40.837Z",
+        "detail": {
+          "question": "q17",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:41.482Z",
+        "detail": {
+          "question": "q18",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:42.172Z",
+        "detail": {
+          "question": "q19",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:43.056Z",
+        "detail": {
+          "question": "q20",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:43.344Z",
+        "detail": {
+          "question": "q21",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:44.204Z",
+        "detail": {
+          "question": "q22_agree",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:47.835Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "A"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:49.396Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "B"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:50.356Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "C"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:50.745Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "D"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:51.142Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "C"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:51.481Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "B"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:51.750Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "A"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:52.004Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "B"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:52.364Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "C"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:51:52.882Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "B"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:20.617Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "C"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:20.919Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "D"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:21.230Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "C"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:21.553Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "D"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:21.974Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "C"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:22.287Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "D"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:22.617Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "C"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:22.919Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "D"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:23.202Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "C"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:23.506Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "D"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:24.178Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "C"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:24.801Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "D"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:25.222Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "C"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:25.528Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "D"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:25.842Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "C"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:26.142Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "D"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:26.534Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "C"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:26.825Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "D"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:31.806Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "A"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:32.112Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "B"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:32.405Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "C"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:32.691Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "D"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:33.035Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "C"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:33.337Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "B"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:33.606Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "A"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:33.891Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "C"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:34.405Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "B"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:34.678Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "D"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:35.097Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "C"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:35.452Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "B"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:35.953Z",
+        "detail": {
+          "question": "q22_target",
+          "value": "A"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:52:54.485Z",
+        "detail": {
+          "question": "q25",
+          "value": "2"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:53:58.425Z",
+        "detail": {
+          "question": "q23_target",
+          "value": "A"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:54:09.780Z",
+        "detail": {
+          "question": "q24_target",
+          "value": "B"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:56:55.520Z",
+        "detail": {
+          "question": "q24_agree",
+          "value": "2"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:56:56.546Z",
+        "detail": {
+          "question": "q23_agree",
+          "value": "2"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:56:59.698Z",
+        "detail": {
+          "question": "q25",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:57:00.241Z",
+        "detail": {
+          "question": "q25",
+          "value": "2"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:57:39.980Z",
+        "detail": {
+          "question": "q26",
+          "value": "2"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:57:40.481Z",
+        "detail": {
+          "question": "q27",
+          "value": "2"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:57:41.385Z",
+        "detail": {
+          "question": "q28",
+          "value": "2"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:57:41.914Z",
+        "detail": {
+          "question": "q29",
+          "value": "3"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:59:16.490Z",
+        "detail": {
+          "question": "q2",
+          "value": "mcp-llm-tp"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:59:17.852Z",
+        "detail": {
+          "question": "q2",
+          "value": "llm-tp"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:59:26.973Z",
+        "detail": {
+          "question": "q2",
+          "value": "other"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-06-30T14:59:27.740Z",
+        "detail": {
+          "question": "q2",
+          "value": "mcp-llm-tp"
+        }
+      },
+      {
+        "type": "survey_hidden",
+        "timestamp": "2026-06-30T14:59:35.318Z",
+        "detail": {}
+      },
+      {
+        "type": "survey_visible",
+        "timestamp": "2026-06-30T14:59:41.771Z",
+        "detail": {
+          "hiddenDurationMs": 6453
+        }
+      }
+    ],
+    "uploadCode": "survey_2026-06-30T15-01-47_l9b5.json"
+  },
+  "scenarioOrder": {
+    "A": [
+      "anthropic",
+      "third-party"
+    ],
+    "B": [
+      "third-party",
+      "anthropic"
+    ],
+    "C": [
+      "anthropic",
+      "third-party"
+    ]
+  }
+}
