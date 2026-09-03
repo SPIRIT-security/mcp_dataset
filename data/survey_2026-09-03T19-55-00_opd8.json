@@ -1,0 +1,3909 @@
+{
+  "exportedAt": "2026-09-03T19:55:00.328Z",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+  "session": {
+    "sessionStart": "2026-09-03T19:40:54.585Z",
+    "sessionDurationMs": 845743,
+    "sessionDurationMin": 14
+  },
+  "tracking": {
+    "sessionId": "sess_1788464509602",
+    "startedAt": "2026-09-03T19:41:49.602Z",
+    "group": "experiment",
+    "events": [
+      {
+        "eventId": "evt_1788464509604_m0iycb",
+        "type": "mcp_selector_open",
+        "timestamp": "2026-09-03T19:41:49.604Z",
+        "detail": {
+          "currentPrompt": "A",
+          "hadPreviousMcp": false
+        }
+      },
+      {
+        "eventId": "evt_1788464509605_u32ywz",
+        "type": "prompt_select",
+        "timestamp": "2026-09-03T19:41:49.605Z",
+        "detail": {
+          "prompt": "A",
+          "previousPrompt": null,
+          "promptText": "This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.\n\n--- Email ---\nFrom: Manager2026@gmail.com\nTo: User2026@gmail.com\nTitle: Discuss your project\n\nDear User,\n\nI hope you're doing well.\n\nI'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.\n\nHere are a few time windows that work for me (EST):\n- Monday, May 11 – 10:00 AM to 3:00 PM\n- Tuesday, May 12 – 1:00 PM to 6:00 PM\n- Wednesday, May 13 – 11:00 AM to 6:00 PM\n\nPlease let me know which time works best, and feel free to send a calendar invite once confirmed.\n\nBest regards,\nManager Test\n--- End of Email ---"
+        }
+      },
+      {
+        "eventId": "evt_1788464509607_wgqxnb",
+        "type": "session_start",
+        "timestamp": "2026-09-03T19:41:49.607Z",
+        "detail": {
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "viewportWidth": 782,
+          "viewportHeight": 688,
+          "isMobile": false,
+          "locked": true,
+          "urlPrompt": "A",
+          "urlMcp": "third-party"
+        }
+      },
+      {
+        "eventId": "evt_1788464509713_gl5h73",
+        "type": "mcp_selector_close",
+        "timestamp": "2026-09-03T19:41:49.713Z",
+        "detail": {
+          "selectedMcp": "third-party"
+        }
+      },
+      {
+        "eventId": "evt_1788464509713_qv4asx",
+        "type": "mcp_select",
+        "timestamp": "2026-09-03T19:41:49.713Z",
+        "detail": {
+          "mcp": "third-party",
+          "previousMcp": null,
+          "currentPrompt": "A"
+        }
+      },
+      {
+        "eventId": "evt_1788464577762_ng66rs",
+        "type": "send_message",
+        "timestamp": "2026-09-03T19:42:57.762Z",
+        "detail": {
+          "prompt": "A",
+          "mcp": "third-party",
+          "promptText": "This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.\n\n--- Email ---\nFrom: Manager2026@gmail.com\nTo: User2026@gmail.com\nTitle: Discuss your project\n\nDear User,\n\nI hope you're doing well.\n\nI'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.\n\nHere are a few time windows that work for me (EST):\n- Monday, May 11 – 10:00 AM to 3:00 PM\n- Tuesday, May 12 – 1:00 PM to 6:00 PM\n- Wednesday, May 13 – 11:00 AM to 6:00 PM\n\nPlease let me know which time works best, and feel free to send a calendar invite once confirmed.\n\nBest regards,\nManager Test\n--- End of Email ---"
+        }
+      },
+      {
+        "eventId": "evt_1788464577763_qmci8h",
+        "type": "enter_response_interface",
+        "timestamp": "2026-09-03T19:42:57.763Z",
+        "detail": {
+          "prompt": "A",
+          "mcp": "third-party",
+          "mcpLabel": "Third party",
+          "timestamp": "2026-09-03T19:42:57.762Z"
+        }
+      },
+      {
+        "eventId": "evt_1788464578178_ee4j7y",
+        "type": "session_end",
+        "timestamp": "2026-09-03T19:42:58.178Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "third-party",
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "startedAt": null,
+              "completedAt": "2026-09-03T19:42:57.761Z",
+              "durationSec": null
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1788464580229_1imx8o",
+        "type": "page_hidden",
+        "timestamp": "2026-09-03T19:43:00.229Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "third-party",
+          "promptSelectorVisible": false,
+          "mcpSelectorVisible": false
+        }
+      },
+      {
+        "eventId": "evt_1788464583787_vlwzpe",
+        "type": "response_page_enter",
+        "timestamp": "2026-09-03T19:43:03.788Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "prompt": "A",
+          "mcp": "third-party",
+          "mcpLabel": "Third party",
+          "scenarioKey": "A-third-party",
+          "hasContent": true
+        }
+      },
+      {
+        "eventId": "evt_1788464583791_esok06",
+        "type": "thinking_view",
+        "timestamp": "2026-09-03T19:43:03.791Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "autoExpanded": false,
+          "thinkingLength": 449
+        }
+      },
+      {
+        "eventId": "evt_1788464585562_wrmqks",
+        "type": "thinking_expand",
+        "timestamp": "2026-09-03T19:43:05.562Z",
+        "scenario": "A-third-party",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1788464585805_9u79ph",
+        "type": "notification_card_shown",
+        "timestamp": "2026-09-03T19:43:05.805Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "scenarioKey": "A-third-party"
+        }
+      },
+      {
+        "eventId": "evt_1788464586425_0wrwzp",
+        "type": "scroll_depth",
+        "timestamp": "2026-09-03T19:43:06.425Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "depthPercent": 92,
+          "scrollPx": 600
+        }
+      },
+      {
+        "eventId": "evt_1788464589390_og33hd",
+        "type": "scroll_depth",
+        "timestamp": "2026-09-03T19:43:09.390Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "depthPercent": 100,
+          "scrollPx": 1104.800048828125
+        }
+      },
+      {
+        "eventId": "evt_1788464592108_esquzc",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:43:12.108Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "blockIndex": 1,
+          "toolIndex": 0,
+          "toolName": "List events from a calendar.",
+          "action": "always-allow",
+          "previousAction": null
+        }
+      },
+      {
+        "eventId": "evt_1788464592146_mh5fx2",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:43:12.146Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "blockIndex": 1,
+          "durationMs": 521
+        }
+      },
+      {
+        "eventId": "evt_1788464593117_eodlk0",
+        "type": "tool_response_revealed",
+        "timestamp": "2026-09-03T19:43:13.117Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "blockIndex": 1,
+          "toolIndex": 0,
+          "mode": "always-allow"
+        }
+      },
+      {
+        "eventId": "evt_1788464593453_h05lqp",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:43:13.453Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "fromBlockIndex": 1,
+          "toBlockIndex": 2,
+          "type": "text"
+        }
+      },
+      {
+        "eventId": "evt_1788464593826_9ul4gg",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:43:13.826Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "blockIndex": 1,
+          "durationMs": 1680
+        }
+      },
+      {
+        "eventId": "evt_1788464593862_qwd0yy",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:43:13.862Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "fromBlockIndex": 2,
+          "toBlockIndex": 3,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788464594476_ux172e",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:43:14.476Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "blockIndex": 3,
+          "toolIndex": 1,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788464595795_dt85hz",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:43:15.795Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "fromBlockIndex": 3,
+          "toBlockIndex": 4,
+          "type": "text"
+        }
+      },
+      {
+        "eventId": "evt_1788464596209_s6j5bk",
+        "type": "post_tool_content_revealed",
+        "timestamp": "2026-09-03T19:43:16.209Z",
+        "scenario": "A-third-party",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1788464598107_r1mnym",
+        "type": "scroll_depth_final",
+        "timestamp": "2026-09-03T19:43:18.107Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "maxDepthPercent": 100
+        }
+      },
+      {
+        "eventId": "evt_1788464598108_10bgry",
+        "type": "response_page_leave",
+        "timestamp": "2026-09-03T19:43:18.108Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "scenarioKey": "A-third-party",
+          "timeOnPageMs": 14323,
+          "thinkingExpanded": true,
+          "thinkingExpandDuration": 12546,
+          "blockStates": [
+            {
+              "blockIndex": 0,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 1,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 2,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 3,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 4,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1788464598553_s0gzt9",
+        "type": "response_page_hidden",
+        "timestamp": "2026-09-03T19:43:18.553Z",
+        "scenario": "A-third-party",
+        "detail": {
+          "timeOnPageMs": 14768
+        }
+      },
+      {
+        "eventId": "evt_1788464636313_v5de1g",
+        "type": "homepage_enter",
+        "timestamp": "2026-09-03T19:43:56.313Z",
+        "detail": {
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "startedAt": null,
+              "completedAt": "2026-09-03T19:42:57.761Z",
+              "durationSec": null
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1788464641635_pprwgv",
+        "type": "homepage_scenario_click",
+        "timestamp": "2026-09-03T19:44:01.635Z",
+        "detail": {
+          "scenarioKey": "A-anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1788464641636_40l26u",
+        "type": "homepage_leave",
+        "timestamp": "2026-09-03T19:44:01.636Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1788464642869_hjk13e",
+        "type": "homepage_hidden",
+        "timestamp": "2026-09-03T19:44:02.869Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1788464648931_lhg7b9",
+        "type": "mcp_selector_open",
+        "timestamp": "2026-09-03T19:44:08.931Z",
+        "detail": {
+          "currentPrompt": "A",
+          "hadPreviousMcp": false
+        }
+      },
+      {
+        "eventId": "evt_1788464648932_bdcccr",
+        "type": "prompt_select",
+        "timestamp": "2026-09-03T19:44:08.932Z",
+        "detail": {
+          "prompt": "A",
+          "previousPrompt": null,
+          "promptText": "This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.\n\n--- Email ---\nFrom: Manager2026@gmail.com\nTo: User2026@gmail.com\nTitle: Discuss your project\n\nDear User,\n\nI hope you're doing well.\n\nI'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.\n\nHere are a few time windows that work for me (EST):\n- Monday, May 11 – 10:00 AM to 3:00 PM\n- Tuesday, May 12 – 1:00 PM to 6:00 PM\n- Wednesday, May 13 – 11:00 AM to 6:00 PM\n\nPlease let me know which time works best, and feel free to send a calendar invite once confirmed.\n\nBest regards,\nManager Test\n--- End of Email ---"
+        }
+      },
+      {
+        "eventId": "evt_1788464648932_h67x0n",
+        "type": "session_start",
+        "timestamp": "2026-09-03T19:44:08.932Z",
+        "detail": {
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "viewportWidth": 782,
+          "viewportHeight": 688,
+          "isMobile": false,
+          "locked": true,
+          "urlPrompt": "A",
+          "urlMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1788464649044_9ag3g9",
+        "type": "mcp_selector_close",
+        "timestamp": "2026-09-03T19:44:09.044Z",
+        "detail": {
+          "selectedMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1788464649046_8t7sdj",
+        "type": "mcp_select",
+        "timestamp": "2026-09-03T19:44:09.046Z",
+        "detail": {
+          "mcp": "anthropic",
+          "previousMcp": null,
+          "currentPrompt": "A"
+        }
+      },
+      {
+        "eventId": "evt_1788464657976_22ttre",
+        "type": "send_message",
+        "timestamp": "2026-09-03T19:44:17.977Z",
+        "detail": {
+          "prompt": "A",
+          "mcp": "anthropic",
+          "promptText": "This is an email from my manager. Check my calendar for availability to meet with him, and create an event if possible.\n\n--- Email ---\nFrom: Manager2026@gmail.com\nTo: User2026@gmail.com\nTitle: Discuss your project\n\nDear User,\n\nI hope you're doing well.\n\nI'd like to schedule a 1-hour meeting next week to review our project, discuss your progress, and address any questions or concerns you may have.\n\nHere are a few time windows that work for me (EST):\n- Monday, May 11 – 10:00 AM to 3:00 PM\n- Tuesday, May 12 – 1:00 PM to 6:00 PM\n- Wednesday, May 13 – 11:00 AM to 6:00 PM\n\nPlease let me know which time works best, and feel free to send a calendar invite once confirmed.\n\nBest regards,\nManager Test\n--- End of Email ---"
+        }
+      },
+      {
+        "eventId": "evt_1788464657977_ldi71t",
+        "type": "enter_response_interface",
+        "timestamp": "2026-09-03T19:44:17.977Z",
+        "detail": {
+          "prompt": "A",
+          "mcp": "anthropic",
+          "mcpLabel": "Anthropic owned",
+          "timestamp": "2026-09-03T19:44:17.977Z"
+        }
+      },
+      {
+        "eventId": "evt_1788464658393_oi1cx5",
+        "type": "session_end",
+        "timestamp": "2026-09-03T19:44:18.393Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic",
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "startedAt": null,
+              "completedAt": "2026-09-03T19:42:57.761Z",
+              "durationSec": null
+            },
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:44:01.634Z",
+              "completedAt": "2026-09-03T19:44:17.975Z",
+              "durationSec": 16.3
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1788464658735_oliuxr",
+        "type": "page_hidden",
+        "timestamp": "2026-09-03T19:44:18.736Z",
+        "detail": {
+          "selectedPrompt": "A",
+          "selectedMcp": "anthropic",
+          "promptSelectorVisible": false,
+          "mcpSelectorVisible": false
+        }
+      },
+      {
+        "eventId": "evt_1788464658839_1vdyys",
+        "type": "response_page_enter",
+        "timestamp": "2026-09-03T19:44:18.840Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "prompt": "A",
+          "mcp": "anthropic",
+          "mcpLabel": "Anthropic owned",
+          "scenarioKey": "A-anthropic",
+          "hasContent": true
+        }
+      },
+      {
+        "eventId": "evt_1788464658840_0q71rj",
+        "type": "thinking_view",
+        "timestamp": "2026-09-03T19:44:18.840Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "autoExpanded": false,
+          "thinkingLength": 579
+        }
+      },
+      {
+        "eventId": "evt_1788464660854_ifo7zv",
+        "type": "notification_card_shown",
+        "timestamp": "2026-09-03T19:44:20.854Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "scenarioKey": "A-anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1788464661525_ddbidt",
+        "type": "scroll_depth",
+        "timestamp": "2026-09-03T19:44:21.525Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "depthPercent": 100,
+          "scrollPx": 377.6000061035156
+        }
+      },
+      {
+        "eventId": "evt_1788464668158_3x3zm5",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:44:28.158Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 1,
+          "durationMs": 633
+        }
+      },
+      {
+        "eventId": "evt_1788464673226_3leff4",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:44:33.226Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 1,
+          "durationMs": 4949
+        }
+      },
+      {
+        "eventId": "evt_1788464674092_mluac1",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:44:34.092Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 1,
+          "toolIndex": 0,
+          "toolName": "Suggests time periods across one or more calendars.",
+          "action": "always-allow",
+          "previousAction": null
+        }
+      },
+      {
+        "eventId": "evt_1788464674100_tcnadf",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:44:34.100Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 1,
+          "durationMs": 410
+        }
+      },
+      {
+        "eventId": "evt_1788464675106_whhd0v",
+        "type": "tool_response_revealed",
+        "timestamp": "2026-09-03T19:44:35.106Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 1,
+          "toolIndex": 0,
+          "mode": "always-allow"
+        }
+      },
+      {
+        "eventId": "evt_1788464675411_jqy4i6",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:44:35.411Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "fromBlockIndex": 1,
+          "toBlockIndex": 2,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788464675592_xjy99j",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:44:35.592Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 1,
+          "durationMs": 1491
+        }
+      },
+      {
+        "eventId": "evt_1788464676024_v3nija",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:44:36.024Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 2,
+          "toolIndex": 1,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788464677341_2evkip",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:44:37.341Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "fromBlockIndex": 2,
+          "toBlockIndex": 3,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788464677947_f3nsjj",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:44:37.948Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 3,
+          "toolIndex": 2,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788464679263_hanoby",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:44:39.264Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "fromBlockIndex": 3,
+          "toBlockIndex": 4,
+          "type": "text"
+        }
+      },
+      {
+        "eventId": "evt_1788464679565_4cv09w",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:44:39.565Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 3,
+          "durationMs": 287
+        }
+      },
+      {
+        "eventId": "evt_1788464679666_iveapp",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:44:39.666Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "fromBlockIndex": 4,
+          "toBlockIndex": 5,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788464680273_eab6s3",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:44:40.273Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 5,
+          "toolIndex": 3,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788464680279_r9lyo1",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:44:40.279Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 5,
+          "durationMs": 354
+        }
+      },
+      {
+        "eventId": "evt_1788464680757_ofmzpx",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:44:40.757Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "blockIndex": 5,
+          "durationMs": 477
+        }
+      },
+      {
+        "eventId": "evt_1788464681579_3onx5l",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:44:41.579Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "fromBlockIndex": 5,
+          "toBlockIndex": 6,
+          "type": "text"
+        }
+      },
+      {
+        "eventId": "evt_1788464681983_p0rnpy",
+        "type": "post_tool_content_revealed",
+        "timestamp": "2026-09-03T19:44:41.983Z",
+        "scenario": "A-anthropic",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1788464685172_nwpkdz",
+        "type": "scroll_depth_final",
+        "timestamp": "2026-09-03T19:44:45.172Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "maxDepthPercent": 100
+        }
+      },
+      {
+        "eventId": "evt_1788464685173_z3zwly",
+        "type": "response_page_leave",
+        "timestamp": "2026-09-03T19:44:45.173Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "scenarioKey": "A-anthropic",
+          "timeOnPageMs": 26334,
+          "thinkingExpanded": false,
+          "thinkingExpandDuration": 0,
+          "blockStates": [
+            {
+              "blockIndex": 0,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 1,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 2,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 3,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 4,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 5,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 6,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1788464693101_pzh7bm",
+        "type": "response_page_hidden",
+        "timestamp": "2026-09-03T19:44:53.101Z",
+        "scenario": "A-anthropic",
+        "detail": {
+          "timeOnPageMs": 34261
+        }
+      },
+      {
+        "eventId": "evt_1788464743359_6s7k3e",
+        "type": "homepage_enter",
+        "timestamp": "2026-09-03T19:45:43.359Z",
+        "detail": {
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "startedAt": null,
+              "completedAt": "2026-09-03T19:42:57.761Z",
+              "durationSec": null
+            },
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:44:01.634Z",
+              "completedAt": "2026-09-03T19:44:17.975Z",
+              "durationSec": 16.3
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1788464744919_v0aqhz",
+        "type": "homepage_scenario_click",
+        "timestamp": "2026-09-03T19:45:44.919Z",
+        "detail": {
+          "scenarioKey": "B-anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1788464744921_70yoo1",
+        "type": "homepage_leave",
+        "timestamp": "2026-09-03T19:45:44.921Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1788464745294_bo1yt5",
+        "type": "homepage_hidden",
+        "timestamp": "2026-09-03T19:45:45.294Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1788464748846_uysjz7",
+        "type": "mcp_selector_open",
+        "timestamp": "2026-09-03T19:45:48.846Z",
+        "detail": {
+          "currentPrompt": "B",
+          "hadPreviousMcp": false
+        }
+      },
+      {
+        "eventId": "evt_1788464748846_joz3r8",
+        "type": "prompt_select",
+        "timestamp": "2026-09-03T19:45:48.846Z",
+        "detail": {
+          "prompt": "B",
+          "previousPrompt": null,
+          "promptText": "Search for files related to yesterday's medical records in my medical folder, then read them and tell me about my condition and how to take the medication."
+        }
+      },
+      {
+        "eventId": "evt_1788464748847_ghcqs3",
+        "type": "session_start",
+        "timestamp": "2026-09-03T19:45:48.847Z",
+        "detail": {
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "viewportWidth": 782,
+          "viewportHeight": 688,
+          "isMobile": false,
+          "locked": true,
+          "urlPrompt": "B",
+          "urlMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1788464748959_clnggc",
+        "type": "mcp_selector_close",
+        "timestamp": "2026-09-03T19:45:48.959Z",
+        "detail": {
+          "selectedMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1788464748961_fkr8kh",
+        "type": "mcp_select",
+        "timestamp": "2026-09-03T19:45:48.961Z",
+        "detail": {
+          "mcp": "anthropic",
+          "previousMcp": null,
+          "currentPrompt": "B"
+        }
+      },
+      {
+        "eventId": "evt_1788464752300_z7zbt6",
+        "type": "send_message",
+        "timestamp": "2026-09-03T19:45:52.300Z",
+        "detail": {
+          "prompt": "B",
+          "mcp": "anthropic",
+          "promptText": "Search for files related to yesterday's medical records in my medical folder, then read them and tell me about my condition and how to take the medication."
+        }
+      },
+      {
+        "eventId": "evt_1788464752302_fb9dyu",
+        "type": "enter_response_interface",
+        "timestamp": "2026-09-03T19:45:52.302Z",
+        "detail": {
+          "prompt": "B",
+          "mcp": "anthropic",
+          "mcpLabel": "Anthropic owned",
+          "timestamp": "2026-09-03T19:45:52.301Z"
+        }
+      },
+      {
+        "eventId": "evt_1788464752707_3q0ex3",
+        "type": "session_end",
+        "timestamp": "2026-09-03T19:45:52.707Z",
+        "detail": {
+          "selectedPrompt": "B",
+          "selectedMcp": "anthropic",
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "startedAt": null,
+              "completedAt": "2026-09-03T19:42:57.761Z",
+              "durationSec": null
+            },
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:44:01.634Z",
+              "completedAt": "2026-09-03T19:44:17.975Z",
+              "durationSec": 16.3
+            },
+            {
+              "prompt": "B",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:45:44.918Z",
+              "completedAt": "2026-09-03T19:45:52.298Z",
+              "durationSec": 7.4
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1788464756759_mgrgdg",
+        "type": "send_message",
+        "timestamp": "2026-09-03T19:45:56.759Z",
+        "detail": {
+          "prompt": "B",
+          "mcp": "anthropic",
+          "promptText": "Search for files related to yesterday's medical records in my medical folder, then read them and tell me about my condition and how to take the medication."
+        }
+      },
+      {
+        "eventId": "evt_1788464756761_t2yi7m",
+        "type": "enter_response_interface",
+        "timestamp": "2026-09-03T19:45:56.761Z",
+        "detail": {
+          "prompt": "B",
+          "mcp": "anthropic",
+          "mcpLabel": "Anthropic owned",
+          "timestamp": "2026-09-03T19:45:56.761Z"
+        }
+      },
+      {
+        "eventId": "evt_1788464757173_r92s86",
+        "type": "session_end",
+        "timestamp": "2026-09-03T19:45:57.173Z",
+        "detail": {
+          "selectedPrompt": "B",
+          "selectedMcp": "anthropic",
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "startedAt": null,
+              "completedAt": "2026-09-03T19:42:57.761Z",
+              "durationSec": null
+            },
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:44:01.634Z",
+              "completedAt": "2026-09-03T19:44:17.975Z",
+              "durationSec": 16.3
+            },
+            {
+              "prompt": "B",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:45:44.918Z",
+              "completedAt": "2026-09-03T19:45:52.298Z",
+              "durationSec": 7.4
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1788464758615_5w8e2g",
+        "type": "page_hidden",
+        "timestamp": "2026-09-03T19:45:58.615Z",
+        "detail": {
+          "selectedPrompt": "B",
+          "selectedMcp": "anthropic",
+          "promptSelectorVisible": false,
+          "mcpSelectorVisible": false
+        }
+      },
+      {
+        "eventId": "evt_1788464758776_8bvjgy",
+        "type": "response_page_enter",
+        "timestamp": "2026-09-03T19:45:58.776Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "prompt": "B",
+          "mcp": "anthropic",
+          "mcpLabel": "Anthropic owned",
+          "scenarioKey": "B-anthropic",
+          "hasContent": true
+        }
+      },
+      {
+        "eventId": "evt_1788464758777_t4hefc",
+        "type": "thinking_view",
+        "timestamp": "2026-09-03T19:45:58.777Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "autoExpanded": false,
+          "thinkingLength": 410
+        }
+      },
+      {
+        "eventId": "evt_1788464760793_yb811a",
+        "type": "notification_card_shown",
+        "timestamp": "2026-09-03T19:46:00.793Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "scenarioKey": "B-anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1788464761374_p2ss3t",
+        "type": "scroll_depth",
+        "timestamp": "2026-09-03T19:46:01.374Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "depthPercent": 80,
+          "scrollPx": 199.1999969482422
+        }
+      },
+      {
+        "eventId": "evt_1788464765456_zi5gcw",
+        "type": "scroll_depth",
+        "timestamp": "2026-09-03T19:46:05.456Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "depthPercent": 100,
+          "scrollPx": 359.20001220703125
+        }
+      },
+      {
+        "eventId": "evt_1788464767557_mxnttn",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:46:07.557Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "blockIndex": 0,
+          "toolIndex": 0,
+          "toolName": "List allowed dictories",
+          "action": "always-allow",
+          "previousAction": null
+        }
+      },
+      {
+        "eventId": "evt_1788464767563_ywe867",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:46:07.563Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "blockIndex": 0,
+          "durationMs": 474
+        }
+      },
+      {
+        "eventId": "evt_1788464768573_toovu5",
+        "type": "tool_response_revealed",
+        "timestamp": "2026-09-03T19:46:08.573Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "blockIndex": 0,
+          "toolIndex": 0,
+          "mode": "always-allow"
+        }
+      },
+      {
+        "eventId": "evt_1788464768891_d3yilb",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:46:08.891Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "fromBlockIndex": 0,
+          "toBlockIndex": 1,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788464769089_e95zop",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:46:09.089Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "blockIndex": 0,
+          "durationMs": 1525
+        }
+      },
+      {
+        "eventId": "evt_1788464769506_hiauev",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:46:09.506Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "blockIndex": 1,
+          "toolIndex": 1,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788464770837_8cn108",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:46:10.837Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "fromBlockIndex": 1,
+          "toBlockIndex": 2,
+          "type": "text"
+        }
+      },
+      {
+        "eventId": "evt_1788464771040_ii0dus",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:46:11.040Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "blockIndex": 1,
+          "durationMs": 501
+        }
+      },
+      {
+        "eventId": "evt_1788464771242_hd4ihx",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:46:11.242Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "fromBlockIndex": 2,
+          "toBlockIndex": 3,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788464771852_qaya8g",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:46:11.852Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "blockIndex": 3,
+          "toolIndex": 2,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788464773174_ir22lt",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:46:13.174Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "fromBlockIndex": 3,
+          "toBlockIndex": 4,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788464773424_awo0gz",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:46:13.424Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "blockIndex": 3,
+          "durationMs": 548
+        }
+      },
+      {
+        "eventId": "evt_1788464773790_6dyva4",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:46:13.790Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "blockIndex": 4,
+          "toolIndex": 3,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788464775123_fn7drn",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:46:15.123Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "fromBlockIndex": 4,
+          "toBlockIndex": 5,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788464775391_7kod5w",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:46:15.391Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "blockIndex": 4,
+          "durationMs": 567
+        }
+      },
+      {
+        "eventId": "evt_1788464775736_r5dr20",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:46:15.736Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "blockIndex": 5,
+          "toolIndex": 4,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788464777050_jbst2h",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:46:17.050Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "fromBlockIndex": 5,
+          "toBlockIndex": 6,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788464777289_pnqmub",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:46:17.289Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "blockIndex": 5,
+          "durationMs": 534
+        }
+      },
+      {
+        "eventId": "evt_1788464777653_nu1cb3",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:46:17.653Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "blockIndex": 6,
+          "toolIndex": 5,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788464778983_us8yqn",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:46:18.983Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "fromBlockIndex": 6,
+          "toBlockIndex": 7,
+          "type": "text"
+        }
+      },
+      {
+        "eventId": "evt_1788464779356_12wc84",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:46:19.356Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "blockIndex": 6,
+          "durationMs": 682
+        }
+      },
+      {
+        "eventId": "evt_1788464779390_dcr7yy",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:46:19.390Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "fromBlockIndex": 7,
+          "toBlockIndex": 8,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788464779993_oazrvw",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:46:19.993Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "blockIndex": 8,
+          "toolIndex": 6,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788464781346_7baxo5",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:46:21.346Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "fromBlockIndex": 8,
+          "toBlockIndex": 9,
+          "type": "text"
+        }
+      },
+      {
+        "eventId": "evt_1788464781524_rkbryi",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:46:21.524Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "blockIndex": 8,
+          "durationMs": 501
+        }
+      },
+      {
+        "eventId": "evt_1788464781759_993qn5",
+        "type": "post_tool_content_revealed",
+        "timestamp": "2026-09-03T19:46:21.759Z",
+        "scenario": "B-anthropic",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1788464800780_j36ag9",
+        "type": "scroll_depth_final",
+        "timestamp": "2026-09-03T19:46:40.780Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "maxDepthPercent": 100
+        }
+      },
+      {
+        "eventId": "evt_1788464800782_7tb0lr",
+        "type": "response_page_leave",
+        "timestamp": "2026-09-03T19:46:40.782Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "scenarioKey": "B-anthropic",
+          "timeOnPageMs": 42005,
+          "thinkingExpanded": false,
+          "thinkingExpandDuration": 0,
+          "blockStates": [
+            {
+              "blockIndex": 0,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 1,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 2,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 3,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 4,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 5,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 6,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 7,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 8,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 9,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1788464801768_dums1u",
+        "type": "response_page_hidden",
+        "timestamp": "2026-09-03T19:46:41.768Z",
+        "scenario": "B-anthropic",
+        "detail": {
+          "timeOnPageMs": 42991
+        }
+      },
+      {
+        "eventId": "evt_1788464827737_afoky6",
+        "type": "homepage_enter",
+        "timestamp": "2026-09-03T19:47:07.737Z",
+        "detail": {
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "startedAt": null,
+              "completedAt": "2026-09-03T19:42:57.761Z",
+              "durationSec": null
+            },
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:44:01.634Z",
+              "completedAt": "2026-09-03T19:44:17.975Z",
+              "durationSec": 16.3
+            },
+            {
+              "prompt": "B",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:45:44.918Z",
+              "completedAt": "2026-09-03T19:45:52.298Z",
+              "durationSec": 7.4
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1788464830494_dhvnc5",
+        "type": "homepage_scenario_click",
+        "timestamp": "2026-09-03T19:47:10.494Z",
+        "detail": {
+          "scenarioKey": "B-third-party"
+        }
+      },
+      {
+        "eventId": "evt_1788464830498_zaeir7",
+        "type": "homepage_leave",
+        "timestamp": "2026-09-03T19:47:10.498Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1788464830826_p6w6tb",
+        "type": "homepage_hidden",
+        "timestamp": "2026-09-03T19:47:10.826Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1788464833734_z5rzyk",
+        "type": "mcp_selector_open",
+        "timestamp": "2026-09-03T19:47:13.734Z",
+        "detail": {
+          "currentPrompt": "B",
+          "hadPreviousMcp": false
+        }
+      },
+      {
+        "eventId": "evt_1788464833736_4zv5h4",
+        "type": "prompt_select",
+        "timestamp": "2026-09-03T19:47:13.736Z",
+        "detail": {
+          "prompt": "B",
+          "previousPrompt": null,
+          "promptText": "Search for files related to yesterday's medical records in my medical folder, then read them and tell me about my condition and how to take the medication."
+        }
+      },
+      {
+        "eventId": "evt_1788464833736_yntcbp",
+        "type": "session_start",
+        "timestamp": "2026-09-03T19:47:13.736Z",
+        "detail": {
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "viewportWidth": 782,
+          "viewportHeight": 688,
+          "isMobile": false,
+          "locked": true,
+          "urlPrompt": "B",
+          "urlMcp": "third-party"
+        }
+      },
+      {
+        "eventId": "evt_1788464833841_vjlj92",
+        "type": "mcp_selector_close",
+        "timestamp": "2026-09-03T19:47:13.841Z",
+        "detail": {
+          "selectedMcp": "third-party"
+        }
+      },
+      {
+        "eventId": "evt_1788464833843_iamfk4",
+        "type": "mcp_select",
+        "timestamp": "2026-09-03T19:47:13.843Z",
+        "detail": {
+          "mcp": "third-party",
+          "previousMcp": null,
+          "currentPrompt": "B"
+        }
+      },
+      {
+        "eventId": "evt_1788464837403_49389w",
+        "type": "send_message",
+        "timestamp": "2026-09-03T19:47:17.403Z",
+        "detail": {
+          "prompt": "B",
+          "mcp": "third-party",
+          "promptText": "Search for files related to yesterday's medical records in my medical folder, then read them and tell me about my condition and how to take the medication."
+        }
+      },
+      {
+        "eventId": "evt_1788464837404_7nbn6e",
+        "type": "enter_response_interface",
+        "timestamp": "2026-09-03T19:47:17.404Z",
+        "detail": {
+          "prompt": "B",
+          "mcp": "third-party",
+          "mcpLabel": "Third party",
+          "timestamp": "2026-09-03T19:47:17.404Z"
+        }
+      },
+      {
+        "eventId": "evt_1788464837822_dumo4j",
+        "type": "session_end",
+        "timestamp": "2026-09-03T19:47:17.822Z",
+        "detail": {
+          "selectedPrompt": "B",
+          "selectedMcp": "third-party",
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "startedAt": null,
+              "completedAt": "2026-09-03T19:42:57.761Z",
+              "durationSec": null
+            },
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:44:01.634Z",
+              "completedAt": "2026-09-03T19:44:17.975Z",
+              "durationSec": 16.3
+            },
+            {
+              "prompt": "B",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:45:44.918Z",
+              "completedAt": "2026-09-03T19:45:52.298Z",
+              "durationSec": 7.4
+            },
+            {
+              "prompt": "B",
+              "mcp": "third-party",
+              "startedAt": "2026-09-03T19:47:10.491Z",
+              "completedAt": "2026-09-03T19:47:17.401Z",
+              "durationSec": 6.9
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1788464838233_yq5j8s",
+        "type": "page_hidden",
+        "timestamp": "2026-09-03T19:47:18.233Z",
+        "detail": {
+          "selectedPrompt": "B",
+          "selectedMcp": "third-party",
+          "promptSelectorVisible": false,
+          "mcpSelectorVisible": false
+        }
+      },
+      {
+        "eventId": "evt_1788464838357_nrhjvx",
+        "type": "response_page_enter",
+        "timestamp": "2026-09-03T19:47:18.357Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "prompt": "B",
+          "mcp": "third-party",
+          "mcpLabel": "Third party",
+          "scenarioKey": "B-third-party",
+          "hasContent": true
+        }
+      },
+      {
+        "eventId": "evt_1788464838358_c9tmlq",
+        "type": "thinking_view",
+        "timestamp": "2026-09-03T19:47:18.358Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "autoExpanded": false,
+          "thinkingLength": 461
+        }
+      },
+      {
+        "eventId": "evt_1788464840376_xeyl92",
+        "type": "notification_card_shown",
+        "timestamp": "2026-09-03T19:47:20.376Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "scenarioKey": "B-third-party"
+        }
+      },
+      {
+        "eventId": "evt_1788464840873_k1hs7j",
+        "type": "scroll_depth",
+        "timestamp": "2026-09-03T19:47:20.873Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "depthPercent": 101,
+          "scrollPx": 113.5999984741211
+        }
+      },
+      {
+        "eventId": "evt_1788464847952_jv4cbs",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:47:27.952Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "blockIndex": 1,
+          "toolIndex": 0,
+          "toolName": "List directory tree",
+          "action": "always-allow",
+          "previousAction": null
+        }
+      },
+      {
+        "eventId": "evt_1788464847959_0kottq",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:47:27.959Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "blockIndex": 1,
+          "durationMs": 419
+        }
+      },
+      {
+        "eventId": "evt_1788464848962_4bpanw",
+        "type": "tool_response_revealed",
+        "timestamp": "2026-09-03T19:47:28.962Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "blockIndex": 1,
+          "toolIndex": 0,
+          "mode": "always-allow"
+        }
+      },
+      {
+        "eventId": "evt_1788464849277_llrbko",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:47:29.277Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "fromBlockIndex": 1,
+          "toBlockIndex": 2,
+          "type": "text"
+        }
+      },
+      {
+        "eventId": "evt_1788464849455_6g01no",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:47:29.455Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "blockIndex": 1,
+          "durationMs": 1495
+        }
+      },
+      {
+        "eventId": "evt_1788464849689_rzum2i",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:47:29.689Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "fromBlockIndex": 2,
+          "toBlockIndex": 3,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788464849923_3srw0x",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:47:29.923Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "blockIndex": 3,
+          "durationMs": 231
+        }
+      },
+      {
+        "eventId": "evt_1788464850291_un3vy1",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:47:30.291Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "blockIndex": 3,
+          "toolIndex": 1,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788464851595_tlz9ti",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:47:31.595Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "fromBlockIndex": 3,
+          "toBlockIndex": 4,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788464852211_fklxda",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:47:32.211Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "blockIndex": 4,
+          "toolIndex": 2,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788464853226_1iraxv",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:47:33.226Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "blockIndex": 4,
+          "durationMs": 1372
+        }
+      },
+      {
+        "eventId": "evt_1788464853539_awp8d0",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:47:33.539Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "fromBlockIndex": 4,
+          "toBlockIndex": 5,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788464854142_mmotq8",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:47:34.142Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "blockIndex": 5,
+          "toolIndex": 3,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788464855175_0rkduw",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:47:35.175Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "blockIndex": 5,
+          "durationMs": 1019
+        }
+      },
+      {
+        "eventId": "evt_1788464855457_y89bpq",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:47:35.457Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "fromBlockIndex": 5,
+          "toBlockIndex": 6,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788464856071_0rwy0t",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:47:36.072Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "blockIndex": 6,
+          "toolIndex": 4,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788464857397_tax4v1",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:47:37.397Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "fromBlockIndex": 6,
+          "toBlockIndex": 7,
+          "type": "text"
+        }
+      },
+      {
+        "eventId": "evt_1788464857422_ja9ldp",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:47:37.422Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "blockIndex": 6,
+          "durationMs": 314
+        }
+      },
+      {
+        "eventId": "evt_1788464857808_qkeser",
+        "type": "post_tool_content_revealed",
+        "timestamp": "2026-09-03T19:47:37.808Z",
+        "scenario": "B-third-party",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1788464871576_iimz2x",
+        "type": "scroll_depth_final",
+        "timestamp": "2026-09-03T19:47:51.576Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "maxDepthPercent": 101
+        }
+      },
+      {
+        "eventId": "evt_1788464871579_pfamiz",
+        "type": "response_page_leave",
+        "timestamp": "2026-09-03T19:47:51.579Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "scenarioKey": "B-third-party",
+          "timeOnPageMs": 33222,
+          "thinkingExpanded": false,
+          "thinkingExpandDuration": 0,
+          "blockStates": [
+            {
+              "blockIndex": 0,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 1,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 2,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 3,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 4,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 5,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 6,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 7,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1788464872115_b51wy4",
+        "type": "response_page_hidden",
+        "timestamp": "2026-09-03T19:47:52.115Z",
+        "scenario": "B-third-party",
+        "detail": {
+          "timeOnPageMs": 33758
+        }
+      },
+      {
+        "eventId": "evt_1788464978345_yi7e4e",
+        "type": "homepage_enter",
+        "timestamp": "2026-09-03T19:49:38.345Z",
+        "detail": {
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "startedAt": null,
+              "completedAt": "2026-09-03T19:42:57.761Z",
+              "durationSec": null
+            },
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:44:01.634Z",
+              "completedAt": "2026-09-03T19:44:17.975Z",
+              "durationSec": 16.3
+            },
+            {
+              "prompt": "B",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:45:44.918Z",
+              "completedAt": "2026-09-03T19:45:52.298Z",
+              "durationSec": 7.4
+            },
+            {
+              "prompt": "B",
+              "mcp": "third-party",
+              "startedAt": "2026-09-03T19:47:10.491Z",
+              "completedAt": "2026-09-03T19:47:17.401Z",
+              "durationSec": 6.9
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1788464979734_bi64ei",
+        "type": "homepage_scenario_click",
+        "timestamp": "2026-09-03T19:49:39.734Z",
+        "detail": {
+          "scenarioKey": "C-third-party"
+        }
+      },
+      {
+        "eventId": "evt_1788464979737_rw1ziy",
+        "type": "homepage_leave",
+        "timestamp": "2026-09-03T19:49:39.737Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1788464980413_rxyrvx",
+        "type": "homepage_hidden",
+        "timestamp": "2026-09-03T19:49:40.413Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1788464985070_47syvd",
+        "type": "mcp_selector_open",
+        "timestamp": "2026-09-03T19:49:45.070Z",
+        "detail": {
+          "currentPrompt": "C",
+          "hadPreviousMcp": false
+        }
+      },
+      {
+        "eventId": "evt_1788464985071_1h1hgy",
+        "type": "prompt_select",
+        "timestamp": "2026-09-03T19:49:45.071Z",
+        "detail": {
+          "prompt": "C",
+          "previousPrompt": null,
+          "promptText": "Last week I had a health checkup. Can you look at my calendar to find the exact date and details of that appointment, then search my medical folder for any files saved around that time and read them to tell me what the diagnosis was and what medications I need to take."
+        }
+      },
+      {
+        "eventId": "evt_1788464985072_2ez8ym",
+        "type": "session_start",
+        "timestamp": "2026-09-03T19:49:45.072Z",
+        "detail": {
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "viewportWidth": 782,
+          "viewportHeight": 688,
+          "isMobile": false,
+          "locked": true,
+          "urlPrompt": "C",
+          "urlMcp": "third-party"
+        }
+      },
+      {
+        "eventId": "evt_1788464985174_igppj8",
+        "type": "mcp_selector_close",
+        "timestamp": "2026-09-03T19:49:45.174Z",
+        "detail": {
+          "selectedMcp": "third-party"
+        }
+      },
+      {
+        "eventId": "evt_1788464985178_s0hs9u",
+        "type": "mcp_select",
+        "timestamp": "2026-09-03T19:49:45.178Z",
+        "detail": {
+          "mcp": "third-party",
+          "previousMcp": null,
+          "currentPrompt": "C"
+        }
+      },
+      {
+        "eventId": "evt_1788464986427_wfv3gx",
+        "type": "send_message",
+        "timestamp": "2026-09-03T19:49:46.427Z",
+        "detail": {
+          "prompt": "C",
+          "mcp": "third-party",
+          "promptText": "Last week I had a health checkup. Can you look at my calendar to find the exact date and details of that appointment, then search my medical folder for any files saved around that time and read them to tell me what the diagnosis was and what medications I need to take."
+        }
+      },
+      {
+        "eventId": "evt_1788464986428_io7br1",
+        "type": "enter_response_interface",
+        "timestamp": "2026-09-03T19:49:46.428Z",
+        "detail": {
+          "prompt": "C",
+          "mcp": "third-party",
+          "mcpLabel": "Third party",
+          "timestamp": "2026-09-03T19:49:46.428Z"
+        }
+      },
+      {
+        "eventId": "evt_1788464986837_vt5cmw",
+        "type": "session_end",
+        "timestamp": "2026-09-03T19:49:46.837Z",
+        "detail": {
+          "selectedPrompt": "C",
+          "selectedMcp": "third-party",
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "startedAt": null,
+              "completedAt": "2026-09-03T19:42:57.761Z",
+              "durationSec": null
+            },
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:44:01.634Z",
+              "completedAt": "2026-09-03T19:44:17.975Z",
+              "durationSec": 16.3
+            },
+            {
+              "prompt": "B",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:45:44.918Z",
+              "completedAt": "2026-09-03T19:45:52.298Z",
+              "durationSec": 7.4
+            },
+            {
+              "prompt": "B",
+              "mcp": "third-party",
+              "startedAt": "2026-09-03T19:47:10.491Z",
+              "completedAt": "2026-09-03T19:47:17.401Z",
+              "durationSec": 6.9
+            },
+            {
+              "prompt": "C",
+              "mcp": "third-party",
+              "startedAt": "2026-09-03T19:49:39.732Z",
+              "completedAt": "2026-09-03T19:49:46.426Z",
+              "durationSec": 6.7
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1788464987156_cuv8zh",
+        "type": "page_hidden",
+        "timestamp": "2026-09-03T19:49:47.156Z",
+        "detail": {
+          "selectedPrompt": "C",
+          "selectedMcp": "third-party",
+          "promptSelectorVisible": false,
+          "mcpSelectorVisible": false
+        }
+      },
+      {
+        "eventId": "evt_1788464987193_1godf4",
+        "type": "response_page_enter",
+        "timestamp": "2026-09-03T19:49:47.193Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "prompt": "C",
+          "mcp": "third-party",
+          "mcpLabel": "Third party",
+          "scenarioKey": "C-third-party",
+          "hasContent": true
+        }
+      },
+      {
+        "eventId": "evt_1788464987194_j879u3",
+        "type": "thinking_view",
+        "timestamp": "2026-09-03T19:49:47.194Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "autoExpanded": false,
+          "thinkingLength": 500
+        }
+      },
+      {
+        "eventId": "evt_1788464989199_em79ct",
+        "type": "notification_card_shown",
+        "timestamp": "2026-09-03T19:49:49.199Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "scenarioKey": "C-third-party"
+        }
+      },
+      {
+        "eventId": "evt_1788464989799_1au1eg",
+        "type": "scroll_depth",
+        "timestamp": "2026-09-03T19:49:49.799Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "depthPercent": 92,
+          "scrollPx": 215.1999969482422
+        }
+      },
+      {
+        "eventId": "evt_1788464992886_mnk94p",
+        "type": "scroll_depth",
+        "timestamp": "2026-09-03T19:49:52.886Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "depthPercent": 100,
+          "scrollPx": 389.6000061035156
+        }
+      },
+      {
+        "eventId": "evt_1788464994573_40rnxv",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:49:54.573Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "blockIndex": 1,
+          "toolIndex": 0,
+          "toolName": "List events from a calendar.",
+          "action": "always-allow",
+          "previousAction": null
+        }
+      },
+      {
+        "eventId": "evt_1788464994579_1xtyt3",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:49:54.579Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "blockIndex": 1,
+          "durationMs": 376
+        }
+      },
+      {
+        "eventId": "evt_1788464994897_dl29nx",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:49:54.897Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "blockIndex": 1,
+          "durationMs": 316
+        }
+      },
+      {
+        "eventId": "evt_1788464995573_q4d32p",
+        "type": "tool_response_revealed",
+        "timestamp": "2026-09-03T19:49:55.573Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "blockIndex": 1,
+          "toolIndex": 0,
+          "mode": "always-allow"
+        }
+      },
+      {
+        "eventId": "evt_1788464995886_ffxeev",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:49:55.886Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "fromBlockIndex": 1,
+          "toBlockIndex": 2,
+          "type": "text"
+        }
+      },
+      {
+        "eventId": "evt_1788464996295_bw80mc",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:49:56.295Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "fromBlockIndex": 2,
+          "toBlockIndex": 3,
+          "type": "text"
+        }
+      },
+      {
+        "eventId": "evt_1788464996698_vncdsx",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:49:56.698Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "fromBlockIndex": 3,
+          "toBlockIndex": 4,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788464996936_z989dr",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:49:56.936Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "blockIndex": 1,
+          "durationMs": 675
+        }
+      },
+      {
+        "eventId": "evt_1788464997301_he20uu",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:49:57.301Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "blockIndex": 4,
+          "toolIndex": 1,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788464998620_laggqn",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:49:58.620Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "fromBlockIndex": 4,
+          "toBlockIndex": 5,
+          "type": "text"
+        }
+      },
+      {
+        "eventId": "evt_1788464999024_d5tocm",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:49:59.024Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "fromBlockIndex": 5,
+          "toBlockIndex": 6,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788464999270_5na6dc",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:49:59.270Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "blockIndex": 4,
+          "durationMs": 400
+        }
+      },
+      {
+        "eventId": "evt_1788464999636_85ety7",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:49:59.636Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "blockIndex": 6,
+          "toolIndex": 2,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788465000963_dt6rl9",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:50:00.963Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "fromBlockIndex": 6,
+          "toBlockIndex": 7,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788465001571_lwd89m",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:50:01.571Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "blockIndex": 7,
+          "toolIndex": 3,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788465001575_3ysy3s",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:50:01.575Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "blockIndex": 6,
+          "durationMs": 356
+        }
+      },
+      {
+        "eventId": "evt_1788465002899_56chwk",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:50:02.899Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "fromBlockIndex": 7,
+          "toBlockIndex": 8,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788465003503_oef553",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:50:03.503Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "blockIndex": 8,
+          "toolIndex": 4,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788465004837_fw6tku",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:50:04.837Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "fromBlockIndex": 8,
+          "toBlockIndex": 9,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788465005087_mlud6z",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:50:05.087Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "blockIndex": 6,
+          "durationMs": 1933
+        }
+      },
+      {
+        "eventId": "evt_1788465005453_k9r6ks",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:50:05.453Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "blockIndex": 9,
+          "toolIndex": 5,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788465006784_iux1q5",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:50:06.784Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "fromBlockIndex": 9,
+          "toBlockIndex": 10,
+          "type": "text"
+        }
+      },
+      {
+        "eventId": "evt_1788465006972_2w4gtw",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:50:06.972Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "blockIndex": 7,
+          "durationMs": 1882
+        }
+      },
+      {
+        "eventId": "evt_1788465007191_0y0q80",
+        "type": "post_tool_content_revealed",
+        "timestamp": "2026-09-03T19:50:07.191Z",
+        "scenario": "C-third-party",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1788465021898_xv8nli",
+        "type": "scroll_depth_final",
+        "timestamp": "2026-09-03T19:50:21.898Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "maxDepthPercent": 100
+        }
+      },
+      {
+        "eventId": "evt_1788465021900_nycvvs",
+        "type": "response_page_leave",
+        "timestamp": "2026-09-03T19:50:21.901Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "scenarioKey": "C-third-party",
+          "timeOnPageMs": 34708,
+          "thinkingExpanded": false,
+          "thinkingExpandDuration": 0,
+          "blockStates": [
+            {
+              "blockIndex": 0,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 1,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 2,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 3,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 4,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 5,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 6,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 7,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 8,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 9,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 10,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1788465022803_phidqy",
+        "type": "response_page_hidden",
+        "timestamp": "2026-09-03T19:50:22.803Z",
+        "scenario": "C-third-party",
+        "detail": {
+          "timeOnPageMs": 35610
+        }
+      },
+      {
+        "eventId": "evt_1788465053870_i8h1wr",
+        "type": "homepage_enter",
+        "timestamp": "2026-09-03T19:50:53.870Z",
+        "detail": {
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "startedAt": null,
+              "completedAt": "2026-09-03T19:42:57.761Z",
+              "durationSec": null
+            },
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:44:01.634Z",
+              "completedAt": "2026-09-03T19:44:17.975Z",
+              "durationSec": 16.3
+            },
+            {
+              "prompt": "B",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:45:44.918Z",
+              "completedAt": "2026-09-03T19:45:52.298Z",
+              "durationSec": 7.4
+            },
+            {
+              "prompt": "B",
+              "mcp": "third-party",
+              "startedAt": "2026-09-03T19:47:10.491Z",
+              "completedAt": "2026-09-03T19:47:17.401Z",
+              "durationSec": 6.9
+            },
+            {
+              "prompt": "C",
+              "mcp": "third-party",
+              "startedAt": "2026-09-03T19:49:39.732Z",
+              "completedAt": "2026-09-03T19:49:46.426Z",
+              "durationSec": 6.7
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1788465055073_wazoh8",
+        "type": "homepage_scenario_click",
+        "timestamp": "2026-09-03T19:50:55.073Z",
+        "detail": {
+          "scenarioKey": "C-anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1788465055075_3yomxa",
+        "type": "homepage_leave",
+        "timestamp": "2026-09-03T19:50:55.075Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1788465056608_9mbnub",
+        "type": "homepage_hidden",
+        "timestamp": "2026-09-03T19:50:56.608Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1788465062410_3t6suc",
+        "type": "mcp_selector_open",
+        "timestamp": "2026-09-03T19:51:02.410Z",
+        "detail": {
+          "currentPrompt": "C",
+          "hadPreviousMcp": false
+        }
+      },
+      {
+        "eventId": "evt_1788465062411_g2qfp4",
+        "type": "prompt_select",
+        "timestamp": "2026-09-03T19:51:02.411Z",
+        "detail": {
+          "prompt": "C",
+          "previousPrompt": null,
+          "promptText": "Last week I had a health checkup. Can you look at my calendar to find the exact date and details of that appointment, then search my medical folder for any files saved around that time and read them to tell me what the diagnosis was and what medications I need to take."
+        }
+      },
+      {
+        "eventId": "evt_1788465062412_xa4vtd",
+        "type": "session_start",
+        "timestamp": "2026-09-03T19:51:02.412Z",
+        "detail": {
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "viewportWidth": 782,
+          "viewportHeight": 688,
+          "isMobile": false,
+          "locked": true,
+          "urlPrompt": "C",
+          "urlMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1788465062520_66wwgv",
+        "type": "mcp_selector_close",
+        "timestamp": "2026-09-03T19:51:02.521Z",
+        "detail": {
+          "selectedMcp": "anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1788465062522_q57waz",
+        "type": "mcp_select",
+        "timestamp": "2026-09-03T19:51:02.522Z",
+        "detail": {
+          "mcp": "anthropic",
+          "previousMcp": null,
+          "currentPrompt": "C"
+        }
+      },
+      {
+        "eventId": "evt_1788465065538_8n9d51",
+        "type": "send_message",
+        "timestamp": "2026-09-03T19:51:05.538Z",
+        "detail": {
+          "prompt": "C",
+          "mcp": "anthropic",
+          "promptText": "Last week I had a health checkup. Can you look at my calendar to find the exact date and details of that appointment, then search my medical folder for any files saved around that time and read them to tell me what the diagnosis was and what medications I need to take."
+        }
+      },
+      {
+        "eventId": "evt_1788465065540_wqai24",
+        "type": "enter_response_interface",
+        "timestamp": "2026-09-03T19:51:05.540Z",
+        "detail": {
+          "prompt": "C",
+          "mcp": "anthropic",
+          "mcpLabel": "Anthropic owned",
+          "timestamp": "2026-09-03T19:51:05.539Z"
+        }
+      },
+      {
+        "eventId": "evt_1788465065953_bxz97x",
+        "type": "session_end",
+        "timestamp": "2026-09-03T19:51:05.953Z",
+        "detail": {
+          "selectedPrompt": "C",
+          "selectedMcp": "anthropic",
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "startedAt": null,
+              "completedAt": "2026-09-03T19:42:57.761Z",
+              "durationSec": null
+            },
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:44:01.634Z",
+              "completedAt": "2026-09-03T19:44:17.975Z",
+              "durationSec": 16.3
+            },
+            {
+              "prompt": "B",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:45:44.918Z",
+              "completedAt": "2026-09-03T19:45:52.298Z",
+              "durationSec": 7.4
+            },
+            {
+              "prompt": "B",
+              "mcp": "third-party",
+              "startedAt": "2026-09-03T19:47:10.491Z",
+              "completedAt": "2026-09-03T19:47:17.401Z",
+              "durationSec": 6.9
+            },
+            {
+              "prompt": "C",
+              "mcp": "third-party",
+              "startedAt": "2026-09-03T19:49:39.732Z",
+              "completedAt": "2026-09-03T19:49:46.426Z",
+              "durationSec": 6.7
+            },
+            {
+              "prompt": "C",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:50:55.071Z",
+              "completedAt": "2026-09-03T19:51:05.536Z",
+              "durationSec": 10.5
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1788465066328_ypc0ot",
+        "type": "page_hidden",
+        "timestamp": "2026-09-03T19:51:06.328Z",
+        "detail": {
+          "selectedPrompt": "C",
+          "selectedMcp": "anthropic",
+          "promptSelectorVisible": false,
+          "mcpSelectorVisible": false
+        }
+      },
+      {
+        "eventId": "evt_1788465066480_bu7sgt",
+        "type": "response_page_enter",
+        "timestamp": "2026-09-03T19:51:06.480Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "prompt": "C",
+          "mcp": "anthropic",
+          "mcpLabel": "Anthropic owned",
+          "scenarioKey": "C-anthropic",
+          "hasContent": true
+        }
+      },
+      {
+        "eventId": "evt_1788465066481_keovr7",
+        "type": "thinking_view",
+        "timestamp": "2026-09-03T19:51:06.481Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "autoExpanded": false,
+          "thinkingLength": 421
+        }
+      },
+      {
+        "eventId": "evt_1788465068486_lyptrx",
+        "type": "notification_card_shown",
+        "timestamp": "2026-09-03T19:51:08.486Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "scenarioKey": "C-anthropic"
+        }
+      },
+      {
+        "eventId": "evt_1788465069148_xa50l1",
+        "type": "scroll_depth",
+        "timestamp": "2026-09-03T19:51:09.148Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "depthPercent": 78,
+          "scrollPx": 274.3999938964844
+        }
+      },
+      {
+        "eventId": "evt_1788465069900_tdqufq",
+        "type": "scroll_depth",
+        "timestamp": "2026-09-03T19:51:09.900Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "depthPercent": 100,
+          "scrollPx": 508
+        }
+      },
+      {
+        "eventId": "evt_1788465070513_7fvmxg",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:51:10.513Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 1,
+          "durationMs": 395
+        }
+      },
+      {
+        "eventId": "evt_1788465070981_8amp5t",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:51:10.981Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 1,
+          "toolIndex": 0,
+          "toolName": "Lists calendar events in a given calendar.",
+          "action": "always-allow",
+          "previousAction": null
+        }
+      },
+      {
+        "eventId": "evt_1788465071010_8ielqe",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:51:11.010Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 1,
+          "durationMs": 459
+        }
+      },
+      {
+        "eventId": "evt_1788465071993_634mv3",
+        "type": "tool_response_revealed",
+        "timestamp": "2026-09-03T19:51:11.993Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 1,
+          "toolIndex": 0,
+          "mode": "always-allow"
+        }
+      },
+      {
+        "eventId": "evt_1788465072305_pfb5ks",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:51:12.305Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "fromBlockIndex": 1,
+          "toBlockIndex": 2,
+          "type": "text"
+        }
+      },
+      {
+        "eventId": "evt_1788465072504_70pgiq",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:51:12.504Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 1,
+          "durationMs": 1491
+        }
+      },
+      {
+        "eventId": "evt_1788465072716_erxk83",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:51:12.716Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "fromBlockIndex": 2,
+          "toBlockIndex": 3,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788465072951_2ry79x",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:51:12.951Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 3,
+          "durationMs": 232
+        }
+      },
+      {
+        "eventId": "evt_1788465073321_b3mnoe",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:51:13.321Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 3,
+          "toolIndex": 1,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788465074667_fff0b0",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:51:14.667Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "fromBlockIndex": 3,
+          "toBlockIndex": 4,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788465074919_gji1xi",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:51:14.919Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 3,
+          "durationMs": 950
+        }
+      },
+      {
+        "eventId": "evt_1788465075276_zjozcv",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:51:15.276Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 4,
+          "toolIndex": 2,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788465076620_ihtw33",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:51:16.620Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "fromBlockIndex": 4,
+          "toBlockIndex": 5,
+          "type": "text"
+        }
+      },
+      {
+        "eventId": "evt_1788465076819_2x95jq",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:51:16.819Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 4,
+          "durationMs": 1897
+        }
+      },
+      {
+        "eventId": "evt_1788465077026_pl1np0",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:51:17.026Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "fromBlockIndex": 5,
+          "toBlockIndex": 6,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788465077633_2aj24g",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:51:17.633Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 6,
+          "toolIndex": 3,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788465078965_hpf3if",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:51:18.965Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "fromBlockIndex": 6,
+          "toBlockIndex": 7,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788465079218_j8ttif",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:51:19.218Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 6,
+          "durationMs": 1967
+        }
+      },
+      {
+        "eventId": "evt_1788465079579_90xyq3",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:51:19.579Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 7,
+          "toolIndex": 4,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788465080905_jl798w",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:51:20.905Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "fromBlockIndex": 7,
+          "toBlockIndex": 8,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788465081509_vtcyie",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:51:21.509Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 8,
+          "toolIndex": 5,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788465081934_tctnvq",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:51:21.934Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 7,
+          "durationMs": 415
+        }
+      },
+      {
+        "eventId": "evt_1788465082822_n31zpg",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:51:22.822Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "fromBlockIndex": 8,
+          "toBlockIndex": 9,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788465083086_h19482",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:51:23.086Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 8,
+          "durationMs": 561
+        }
+      },
+      {
+        "eventId": "evt_1788465083445_6sylzc",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:51:23.445Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 9,
+          "toolIndex": 6,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788465083452_pz0wya",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:51:23.452Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 9,
+          "durationMs": 363
+        }
+      },
+      {
+        "eventId": "evt_1788465084761_nay3sh",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:51:24.761Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "fromBlockIndex": 9,
+          "toBlockIndex": 10,
+          "type": "text"
+        }
+      },
+      {
+        "eventId": "evt_1788465085136_0ql6a8",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:51:25.136Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 9,
+          "durationMs": 666
+        }
+      },
+      {
+        "eventId": "evt_1788465085169_sxx4jc",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:51:25.169Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "fromBlockIndex": 10,
+          "toBlockIndex": 11,
+          "type": "tool"
+        }
+      },
+      {
+        "eventId": "evt_1788465085777_rt742p",
+        "type": "tool_action_click",
+        "timestamp": "2026-09-03T19:51:25.777Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 11,
+          "toolIndex": 7,
+          "action": "always-allow",
+          "autoApproved": true
+        }
+      },
+      {
+        "eventId": "evt_1788465085787_bdmerw",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:51:25.787Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 11,
+          "durationMs": 368
+        }
+      },
+      {
+        "eventId": "evt_1788465087137_hbipsy",
+        "type": "next_block_revealed",
+        "timestamp": "2026-09-03T19:51:27.137Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "fromBlockIndex": 11,
+          "toBlockIndex": 12,
+          "type": "text"
+        }
+      },
+      {
+        "eventId": "evt_1788465087525_9sloek",
+        "type": "tool_block_hover",
+        "timestamp": "2026-09-03T19:51:27.525Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "blockIndex": 11,
+          "durationMs": 322
+        }
+      },
+      {
+        "eventId": "evt_1788465087540_npz509",
+        "type": "post_tool_content_revealed",
+        "timestamp": "2026-09-03T19:51:27.540Z",
+        "scenario": "C-anthropic",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1788465098021_h2pto4",
+        "type": "scroll_depth_final",
+        "timestamp": "2026-09-03T19:51:38.021Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "maxDepthPercent": 100
+        }
+      },
+      {
+        "eventId": "evt_1788465098023_jc7bbe",
+        "type": "response_page_leave",
+        "timestamp": "2026-09-03T19:51:38.023Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "scenarioKey": "C-anthropic",
+          "timeOnPageMs": 31544,
+          "thinkingExpanded": false,
+          "thinkingExpandDuration": 0,
+          "blockStates": [
+            {
+              "blockIndex": 0,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 1,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 2,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 3,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 4,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 5,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 6,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 7,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 8,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 9,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 10,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            },
+            {
+              "blockIndex": 11,
+              "type": "tool",
+              "action": "always-allow",
+              "allowed": true,
+              "denied": false
+            },
+            {
+              "blockIndex": 12,
+              "type": "text",
+              "action": null,
+              "allowed": false,
+              "denied": false
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1788465098856_ukd66y",
+        "type": "response_page_hidden",
+        "timestamp": "2026-09-03T19:51:38.856Z",
+        "scenario": "C-anthropic",
+        "detail": {
+          "timeOnPageMs": 32375
+        }
+      },
+      {
+        "eventId": "evt_1788465138909_s3ydyn",
+        "type": "homepage_enter",
+        "timestamp": "2026-09-03T19:52:18.909Z",
+        "detail": {
+          "completedScenarios": [
+            {
+              "prompt": "A",
+              "mcp": "third-party",
+              "startedAt": null,
+              "completedAt": "2026-09-03T19:42:57.761Z",
+              "durationSec": null
+            },
+            {
+              "prompt": "A",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:44:01.634Z",
+              "completedAt": "2026-09-03T19:44:17.975Z",
+              "durationSec": 16.3
+            },
+            {
+              "prompt": "B",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:45:44.918Z",
+              "completedAt": "2026-09-03T19:45:52.298Z",
+              "durationSec": 7.4
+            },
+            {
+              "prompt": "B",
+              "mcp": "third-party",
+              "startedAt": "2026-09-03T19:47:10.491Z",
+              "completedAt": "2026-09-03T19:47:17.401Z",
+              "durationSec": 6.9
+            },
+            {
+              "prompt": "C",
+              "mcp": "third-party",
+              "startedAt": "2026-09-03T19:49:39.732Z",
+              "completedAt": "2026-09-03T19:49:46.426Z",
+              "durationSec": 6.7
+            },
+            {
+              "prompt": "C",
+              "mcp": "anthropic",
+              "startedAt": "2026-09-03T19:50:55.071Z",
+              "completedAt": "2026-09-03T19:51:05.536Z",
+              "durationSec": 10.5
+            }
+          ]
+        }
+      },
+      {
+        "eventId": "evt_1788465139520_m85mgv",
+        "type": "homepage_completion_modal_show",
+        "timestamp": "2026-09-03T19:52:19.520Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1788465146919_78kbjq",
+        "type": "homepage_leave",
+        "timestamp": "2026-09-03T19:52:26.919Z",
+        "detail": {}
+      },
+      {
+        "eventId": "evt_1788465147312_by9non",
+        "type": "homepage_hidden",
+        "timestamp": "2026-09-03T19:52:27.312Z",
+        "detail": {}
+      }
+    ],
+    "completedScenarios": [
+      {
+        "prompt": "A",
+        "mcp": "third-party",
+        "startedAt": null,
+        "completedAt": "2026-09-03T19:42:57.761Z",
+        "durationSec": null
+      },
+      {
+        "prompt": "A",
+        "mcp": "anthropic",
+        "startedAt": "2026-09-03T19:44:01.634Z",
+        "completedAt": "2026-09-03T19:44:17.975Z",
+        "durationSec": 16.3
+      },
+      {
+        "prompt": "B",
+        "mcp": "anthropic",
+        "startedAt": "2026-09-03T19:45:44.918Z",
+        "completedAt": "2026-09-03T19:45:52.298Z",
+        "durationSec": 7.4
+      },
+      {
+        "prompt": "B",
+        "mcp": "third-party",
+        "startedAt": "2026-09-03T19:47:10.491Z",
+        "completedAt": "2026-09-03T19:47:17.401Z",
+        "durationSec": 6.9
+      },
+      {
+        "prompt": "C",
+        "mcp": "third-party",
+        "startedAt": "2026-09-03T19:49:39.732Z",
+        "completedAt": "2026-09-03T19:49:46.426Z",
+        "durationSec": 6.7
+      },
+      {
+        "prompt": "C",
+        "mcp": "anthropic",
+        "startedAt": "2026-09-03T19:50:55.071Z",
+        "completedAt": "2026-09-03T19:51:05.536Z",
+        "durationSec": 10.5
+      }
+    ],
+    "currentScenarioStartedAt": null
+  },
+  "miniSurveys": [
+    {
+      "scenario": "A-third-party",
+      "prompt": "A",
+      "mcp": "third-party",
+      "q3": 5,
+      "q4": 3,
+      "timestamp": "2026-09-03T19:43:54.781Z",
+      "q1": [
+        "A",
+        "C"
+      ],
+      "q2": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "scenario": "A-anthropic",
+      "prompt": "A",
+      "mcp": "anthropic",
+      "q3": 5,
+      "q4": 3,
+      "timestamp": "2026-09-03T19:45:43.289Z",
+      "q1": [
+        "C"
+      ],
+      "q2": [
+        "A"
+      ]
+    },
+    {
+      "scenario": "B-anthropic",
+      "prompt": "B",
+      "mcp": "anthropic",
+      "q3": 5,
+      "q4": 5,
+      "timestamp": "2026-09-03T19:47:07.670Z",
+      "q1": [
+        "B",
+        "C"
+      ],
+      "q2": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "scenario": "B-third-party",
+      "prompt": "B",
+      "mcp": "third-party",
+      "q3": 4,
+      "q4": 5,
+      "timestamp": "2026-09-03T19:49:38.280Z",
+      "q1": [
+        "A"
+      ],
+      "q2": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "scenario": "C-third-party",
+      "prompt": "C",
+      "mcp": "third-party",
+      "q3": 4,
+      "q4": 5,
+      "timestamp": "2026-09-03T19:50:53.808Z",
+      "q1a": [
+        "A"
+      ],
+      "q1b": [
+        "A"
+      ],
+      "q2a": [
+        "A"
+      ],
+      "q2b": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "scenario": "C-anthropic",
+      "prompt": "C",
+      "mcp": "anthropic",
+      "q3": 5,
+      "q4": 5,
+      "timestamp": "2026-09-03T19:52:17.638Z",
+      "q1a": [
+        "B"
+      ],
+      "q1b": [
+        "A",
+        "B"
+      ],
+      "q2a": [
+        "A"
+      ],
+      "q2b": [
+        "A",
+        "B",
+        "C"
+      ]
+    }
+  ],
+  "surveyResponses": {
+    "sessionId": "survey_1788465147696",
+    "startedAt": "2026-09-03T19:52:27.696Z",
+    "completedAt": "2026-09-03T19:55:00.326Z",
+    "submitted": true,
+    "responses": {
+      "q1": [
+        "ai-app",
+        "mcp-server"
+      ],
+      "q2": "user-claude-mcp-claude-user",
+      "q3": "4",
+      "q4": "4",
+      "q5": "4",
+      "q6": "4",
+      "q7": "5",
+      "q8": "5",
+      "q9": "5",
+      "q10": "5",
+      "q11": "5",
+      "q12": "4",
+      "q13": "4",
+      "q14": "4",
+      "q15": "2",
+      "q16": "2",
+      "q17": "4",
+      "q18": "1",
+      "q19": "1",
+      "q20": "2",
+      "q21": "5",
+      "q22": "4",
+      "q23": "4",
+      "q24": "4",
+      "q25": "5",
+      "q26": "5",
+      "q27": "4",
+      "q28": "5",
+      "q29": "4",
+      "q30": "5",
+      "q31": "4",
+      "q32_target": "C",
+      "q33_target": "C",
+      "q34_target": "C",
+      "q35_target": "C"
+    },
+    "events": [
+      {
+        "type": "survey_enter",
+        "timestamp": "2026-09-03T19:52:27.696Z",
+        "detail": {
+          "submitted": false
+        }
+      },
+      {
+        "type": "survey_hidden",
+        "timestamp": "2026-09-03T19:52:30.136Z",
+        "detail": {}
+      },
+      {
+        "type": "survey_visible",
+        "timestamp": "2026-09-03T19:52:40.843Z",
+        "detail": {
+          "hiddenDurationMs": 10707
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:03.782Z",
+        "detail": {
+          "question": "q1",
+          "value": "ai-app"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:04.449Z",
+        "detail": {
+          "question": "q1",
+          "value": "mcp-server"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:06.749Z",
+        "detail": {
+          "question": "q2",
+          "value": "user-claude-mcp-claude-user"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:12.722Z",
+        "detail": {
+          "question": "q3",
+          "value": "4"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:14.217Z",
+        "detail": {
+          "question": "q4",
+          "value": "4"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:14.843Z",
+        "detail": {
+          "question": "q5",
+          "value": "4"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:15.867Z",
+        "detail": {
+          "question": "q6",
+          "value": "4"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:21.549Z",
+        "detail": {
+          "question": "q7",
+          "value": "5"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:22.204Z",
+        "detail": {
+          "question": "q8",
+          "value": "5"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:23.378Z",
+        "detail": {
+          "question": "q9",
+          "value": "5"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:24.606Z",
+        "detail": {
+          "question": "q10",
+          "value": "5"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:25.468Z",
+        "detail": {
+          "question": "q11",
+          "value": "5"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:32.328Z",
+        "detail": {
+          "question": "q12",
+          "value": "4"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:32.996Z",
+        "detail": {
+          "question": "q13",
+          "value": "4"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:34.234Z",
+        "detail": {
+          "question": "q14",
+          "value": "4"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:35.310Z",
+        "detail": {
+          "question": "q15",
+          "value": "4"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:46.260Z",
+        "detail": {
+          "question": "q15",
+          "value": "2"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:49.871Z",
+        "detail": {
+          "question": "q16",
+          "value": "2"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:51.905Z",
+        "detail": {
+          "question": "q17",
+          "value": "4"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:53.522Z",
+        "detail": {
+          "question": "q18",
+          "value": "1"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:53:56.184Z",
+        "detail": {
+          "question": "q19",
+          "value": "1"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:54:02.241Z",
+        "detail": {
+          "question": "q20",
+          "value": "2"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:54:03.934Z",
+        "detail": {
+          "question": "q21",
+          "value": "5"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:54:15.139Z",
+        "detail": {
+          "question": "q22",
+          "value": "4"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:54:17.522Z",
+        "detail": {
+          "question": "q23",
+          "value": "4"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:54:18.763Z",
+        "detail": {
+          "question": "q24",
+          "value": "4"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:54:26.466Z",
+        "detail": {
+          "question": "q25",
+          "value": "5"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:54:27.794Z",
+        "detail": {
+          "question": "q26",
+          "value": "5"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:54:28.603Z",
+        "detail": {
+          "question": "q27",
+          "value": "4"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:54:29.953Z",
+        "detail": {
+          "question": "q28",
+          "value": "5"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:54:30.888Z",
+        "detail": {
+          "question": "q29",
+          "value": "5"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:54:48.115Z",
+        "detail": {
+          "question": "q29",
+          "value": "4"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:54:51.436Z",
+        "detail": {
+          "question": "q30",
+          "value": "5"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:54:52.203Z",
+        "detail": {
+          "question": "q31",
+          "value": "4"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:54:55.964Z",
+        "detail": {
+          "question": "q32_target",
+          "value": "C"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:54:56.873Z",
+        "detail": {
+          "question": "q33_target",
+          "value": "C"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:54:58.313Z",
+        "detail": {
+          "question": "q34_target",
+          "value": "C"
+        }
+      },
+      {
+        "type": "answer_change",
+        "timestamp": "2026-09-03T19:54:59.519Z",
+        "detail": {
+          "question": "q35_target",
+          "value": "C"
+        }
+      }
+    ],
+    "uploadCode": "survey_2026-09-03T19-55-00_opd8.json"
+  },
+  "scenarioOrder": {
+    "A": [
+      "third-party",
+      "anthropic"
+    ],
+    "B": [
+      "anthropic",
+      "third-party"
+    ],
+    "C": [
+      "third-party",
+      "anthropic"
+    ]
+  }
+}
